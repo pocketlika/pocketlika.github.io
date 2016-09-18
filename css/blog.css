@@ -30,7 +30,6 @@ h6, .h6 {
   }
 }
 
-
 /*
  * Masthead for nav
  */
@@ -85,6 +84,7 @@ h6, .h6 {
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
+  margin-left: 170px;
   font-size: 60px;
   font-weight: normal;
 }
@@ -163,4 +163,15 @@ h6, .h6 {
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
+}
+
+
+/*
+ * Custom
+ */
+
+@media (max-width: 767px) {
+  .blog-title {
+    margin-left: 10px;
+  }
 }
