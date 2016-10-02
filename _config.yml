@@ -1,0 +1,5 @@
+exclude: ['README.md']
+permalink: pretty
+baseUrl: http://pocketlika.com.br/
+twitterUrl: http://twitter.com/pocketlika
+email: pocketlika@gmail.com
