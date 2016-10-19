@@ -1,5 +1,5 @@
 exclude: ['README.md']
-baseUrl: http://pocketlika.github.io
+baseUrl: https://pocketlika.github.io
 twitterUrl: http://twitter.com/pocketlika
 email: pocketlika@gmail.com
 paginate: 2
