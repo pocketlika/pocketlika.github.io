@@ -37,14 +37,22 @@
     <div class="container">
 
       <div class="blog-header">
-        olá, eu sou um espaço
+        <form action="/search.html" method="get">
+          <label for="search-box">Search</label>
+          <input type="text" id="search-box" name="query">
+          <input type="submit" value="search">
+        </form>
       </div>
 
       <div class="row">
 
+        <div class="col-sm-8 blog-main">
         {{ content }}
+        </div><!-- /.blog-main -->
 
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
         {% include sidebar.html %}
+        </div><!-- /.blog-sidebar -->
 
       </div><!-- /.row -->
 
