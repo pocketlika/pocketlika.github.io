@@ -4,12 +4,19 @@
 # Production Url
 baseUrl: https://pocketlika.github.io
 
-# Blog settings
-twitterUrl: http://twitter.com/pocketlika
+# Social Media
+linkFacebook: https://www.facebook.com/pocketlika
+linkTwitter: http://twitter.com/pocketlika
+linkBloglovin: https://www.bloglovin.com/blogs/feliz-assim-14224049
+linkYoutube: https://www.youtube.com/channel/UCTk3xkOSzWzf8Ba-wJN8jDA
+linkPinterest: https://br.pinterest.com
+linkInstagram: https://www.instagram.com/heylika/
+
+# Blog Settings
 email: pocketlika@gmail.com
 paginate: 2
 
-# Build settings
+# Build Settings
 gems:
   - jekyll-paginate
 exclude:

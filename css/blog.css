@@ -1,10 +1,13 @@
+---
+---
+
 /*
  * Globals
  */
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  color: #555;
+  /*font-family: Georgia, "Times New Roman", Times, serif;*/
+  background-color: #f7f7f7;
 }
 
 h1, .h1,
@@ -24,11 +27,11 @@ h6, .h6 {
  * Override Bootstrap's default container.
  */
 
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
   .container {
     width: 970px;
   }
-}
+}*/
 
 /*
  * Masthead for nav
@@ -80,21 +83,27 @@ h6, .h6 {
  */
 
 .blog-header {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  width: 1050px;
+  height: 337px;
+  margin: auto;
+  overflow: auto;
+  background-image: url("{{ site.baseurl }}/img/background_header.png");
+  background-repeat: no-repeat;
+  background-color: #ffffff;
+  /*border: 3px solid green;*/
 }
 .blog-title {
-  margin-top: 30px;
-  margin-bottom: 0;
-  margin-left: 170px;
-  font-size: 60px;
-  font-weight: normal;
+  margin-top: 123px;
+  margin-left: 76px;
+  text-decoration: none;
 }
-.blog-description {
+/*.blog-description {
   font-size: 20px;
   color: #999;
+}*/
+.blog-social {
+  margin-right: 30px;
 }
-
 
 /*
  * Main column and sidebar layout
@@ -172,8 +181,8 @@ h6, .h6 {
  * Custom
  */
 
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
   .blog-title {
     margin-left: 10px;
   }
-}
+}*/
