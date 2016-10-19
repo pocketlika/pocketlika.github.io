@@ -1,4 +1,12 @@
 exclude: ['README.md']
-baseUrl: http://pocketlika.com.br/
+baseUrl: http://pocketlika.github.io
 twitterUrl: http://twitter.com/pocketlika
 email: pocketlika@gmail.com
+paginate: 2
+
+# Build settings
+gems:
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock

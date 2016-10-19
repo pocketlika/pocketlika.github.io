@@ -1,6 +1,6 @@
 desc "Run"
 task :run do
-	sh "jekyll serve --watch"
+	sh "bundle exec jekyll serve"
 end
 
 task :default => [:run]
