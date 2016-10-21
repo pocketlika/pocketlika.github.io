@@ -148,10 +148,10 @@ h6, .h6 {
 .blog-main {
   font-size: 18px;
   line-height: 1.5;
-  border: 3px solid green;
+  /*border: 3px solid green;*/
 }
 .blog-sidebar {
-  border: 3px solid red;
+  /*border: 3px solid red;*/
 }
 
 /* Sidebar modules for boxing content */
@@ -261,7 +261,7 @@ h6, .h6 {
   color: #999;
   text-align: center;
   background-color: #b5ddda;
-  border: 3px solid blue;
+  /*border: 3px solid blue;*/
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
