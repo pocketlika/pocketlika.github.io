@@ -11,6 +11,10 @@ body {
   background-color: #f7f7f7;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 /*h1, .h1,
 h2, .h2,
 h3, .h3,
@@ -103,11 +107,11 @@ h6, .h6 {
   color: #5c5160;
   font-size: 18px;
 }
-.blog-nav-item:hover,
+/*.blog-nav-item:hover,
 .blog-nav-item:focus {
-  /*font-weight: bold;*/
+  font-weight: bold;
   text-decoration: none;
-}
+}*/
 
 /* Active state gets a caret at the bottom */
 .blog-nav .active {
@@ -186,10 +190,53 @@ h6, .h6 {
 .blog-post {
   margin-bottom: 60px;
 }
+
 .blog-post-title {
-  margin-bottom: 5px;
   font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
 }
+.blog-post-title a {
+  color: #5c5160;
+}
+.blog-post-title a:hover {
+  color: #b5ddda;
+}
+
+.blog-post-info {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.blog-post-info a {
+  color: #5c5160;
+}
+.blog-post-info a:hover {
+  text-decoration: underline;
+}
+
+.blog-post-cover img {
+  width: 700px;
+  height: auto;
+}
+
+.blog-post-excerpt {
+  margin-bottom: 20px;
+}
+
+.blog-post-readmore {
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+.blog-post-readmore a {
+  color: #5c5160;
+}
+.blog-post-readmore a:hover {
+  color: #b5ddda;
+}
+
 .blog-post-meta {
   margin-bottom: 20px;
   color: #999;
