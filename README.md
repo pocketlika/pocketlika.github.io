@@ -1,6 +1,2 @@
-# Pocket Lika's Blog
-http://pocketlika.com.br
-
-Jekyll command
-
-jekyll serve --watch
+# Hey, Lika Blog
+http://heylika.com.br
