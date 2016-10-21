@@ -6,9 +6,9 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+    <link rel="icon" href="{{ site.baseUrl }}/favicon.ico">
 
-    <title>{{ page.title }} | Pocket Lika</title>
+    <title>{{ page.title }} | hey, Lika</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{ site.baseUrl }}/css/bootstrap.min.css" rel="stylesheet">
@@ -50,12 +50,7 @@
 
     </div><!-- /.container -->
 
-    <footer class="blog-footer">
-      <p>Blog template built for <a href="http://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
-      <p>
-        <a href="http://getbootstrap.com/examples/blog/#">Back to top</a>
-      </p>
-    </footer>
+    {% include footer.html %}
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
