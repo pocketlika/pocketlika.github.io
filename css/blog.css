@@ -170,7 +170,16 @@ h6, .h6 {
   margin-bottom: 0;
 }
 
-/* Pagination */
+.sidebar-pictures img {
+  width: 150px;
+  height: auto;
+}
+
+
+/*
+ * Pagination
+ */
+
 .pager {
   margin-bottom: 60px;
   text-align: left;
