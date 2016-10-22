@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Como fazer um bolo
+tags: [BEAUTY,FOOD,LIFE,PLACES,STYLE]
+cover: http://www.felizassim.com.br/wp-content/uploads/2016/06/lookkimonojacquard05.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla orci, tempus nec quam nec, lobortis varius ipsum. Sed vitae urna augue. Aliquam laoreet lacinia lectus eu maximus. Sed commodo volutpat ante malesuada gravida. Mauris iaculis neque augue, vitae semper neque mattis ut. Aenean sed velit maximus, rhoncus neque eu, consequat massa. In vel cursus lectus. Morbi nec nunc a lacus gravida congue.
