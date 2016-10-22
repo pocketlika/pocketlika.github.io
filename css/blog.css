@@ -76,16 +76,16 @@ h6, .h6 {
  * Masthead for nav
  */
 
- ul.nav a:hover {
-   background-color: #ffdccd !important;
-   color: #fff !important;
-   /*display: inline-block;
-   text-align: center;*/
- }
+ul.nav a:hover {
+ background-color: #ffdccd !important;
+ color: #fff !important;
+ /*display: inline-block;
+ text-align: center;*/
+}
 
- .glyphicon {
-   color: #5c5160;
- }
+.glyphicon {
+ color: #5c5160;
+}
 
 .blog-nav {
   width: 1100px;
@@ -198,17 +198,22 @@ h6, .h6 {
  * Pagination
  */
 
-.pager {
+.pagination {
   margin-bottom: 60px;
-  text-align: left;
-}
-.pager > li > a {
-  width: 140px;
-  padding: 10px 20px;
   text-align: center;
-  border-radius: 30px;
+  width: 100%;
+  color: #5c5160;
+  font-size: 16px;
 }
-
+.pagination a {
+  color: #5c5160;
+}
+.pagination a:hover {
+  text-decoration: underline;
+}
+.pagination-item {
+  padding: 0 10px 0 10px;
+}
 
 /*
  * Blog posts
