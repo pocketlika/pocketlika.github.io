@@ -281,17 +281,41 @@ ul.nav a:hover {
  * Footer
  */
 
-.blog-footer {
+ .blog-footer {
+   width: 1100px;
+   height: 350px;
+   margin: auto;
+   padding: 135px 0;
+   text-align: center;
+   /*overflow: auto;*/
+   background-image: url("{{ site.baseurl }}/img/background_footer.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   /*border: 3px solid blue;*/
+ }
+/*.blog-footer {
   padding: 40px 0;
   color: #999;
   text-align: center;
   background-color: #b5ddda;
-  /*border: 3px solid blue;*/
-}
-.blog-footer p:last-child {
+}*/
+/*.blog-footer p:last-child {
   margin-bottom: 0;
-}
+}*/
 
+.footer-row {
+  padding-top: 20px;
+}
+.footer-copyright {
+  font-size: 14px;
+  color: #5c5160;
+}
+.footer-link a {
+  color: #5c5160;
+}
+.footer-link a:hover {
+  color: #fff;
+}
 
 /*
  * Custom
