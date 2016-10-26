@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<p class="blog-post-title blog-post-offset">{{ page.title }}</p>
+<p class="blog-post-info blog-post-offset">
+  {% assign d = page.date | date: "%-d"  %}
+  {% case d %}
+    {% when '1' or '21' or '31' %}{{ d }}st
+    {% when '2' or '22' %}{{ d }}nd
+    {% when '3' or '23' %}{{ d }}rd
+    {% else %}{{ d }}th
+    {% endcase %}
+  {{ page.date | date: "%B" }}
+  {{ page.date | date: "%Y" }}
+
+  {% for tag in page.tags %}
+      : <a href="{{ site.baseUrl }}/tag/{{ tag }}">{{ tag }}</a>
+  {% endfor %}
+</p>
+
+{{ content }}
+
+<div class="row">
+  <img class="blog-post-signature" src="{{ site.baseUrl }}/img/post_signature.png" alt="Lika" />
+</div>
+
+<div class="row">
+  <p class="blog-post-related">Related</p>
+</div>
+
+<div class="row blog-post-footer-line">
+  {% for post in site.related_posts limit: 3 %}
+  <div class="col-sm-4">
+    <p>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </p>
+    <p class="blog-post-footer-tag">
+      {% for tag in page.tags %}{{ tag }}, {% endfor %}
+    </p>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="row">
+  <img class="blog-post-footer" src="{{ site.baseUrl }}/img/post_footer.png" alt="New and old?" />
+</div>
+
+{% include comments.html %}
+
+<br/>

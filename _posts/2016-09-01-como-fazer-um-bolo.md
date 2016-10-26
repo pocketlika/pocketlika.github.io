@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Como fazer um bolo
 tags: [BEAUTY,FOOD,LIFE,PLACES,STYLE]
 cover: http://www.felizassim.com.br/wp-content/uploads/2016/06/lookkimonojacquard05.jpg

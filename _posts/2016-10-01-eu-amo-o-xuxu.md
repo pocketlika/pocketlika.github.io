@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Eu amo o xuxu
 tags: [BEAUTY,FOOD,LIFE,PLACES,STYLE]
 cover: http://www.felizassim.com.br/wp-content/uploads/2016/06/lookkimonojacquard01.jpg
