@@ -1,0 +1,49 @@
+---
+layout: post
+status: publish
+published: true
+title: Catarina Fashion Outlet
+author:
+  display_name: lika
+  login: lamaroreis
+  email: lamaroreis@gmail.com
+  url: http://www.felizassim.com.br
+author_login: lamaroreis
+author_email: lamaroreis@gmail.com
+author_url: http://www.felizassim.com.br
+wordpress_id: 475
+wordpress_url: http://www.felizassim.com.br/?p=475
+date: '2015-10-22 03:26:38 -0200'
+date_gmt: '2015-10-22 05:26:38 -0200'
+categories:
+- Sem categoria
+tags:
+- Catarina
+- Fashion
+- Outlet
+- Roupas
+comments:
+- id: 22
+  author: Bruno Cicanci
+  author_email: bruno@gamedeveloper.com.br
+  author_url: http://gamedeveloper.com.br/
+  date: '2015-10-22 12:13:00 -0200'
+  date_gmt: '2015-10-22 14:13:00 -0200'
+  content: '&Oacute;timo post! Esse lugar &eacute; realmente muito bom! :)'
+- id: 42
+  author: lika
+  author_email: lamaroreis@gmail.com
+  author_url: http://www.felizassim.com.br
+  date: '2016-04-22 17:49:51 -0300'
+  date_gmt: '2016-04-22 20:49:51 -0300'
+  content: VAMOS VOLTAR L&Aacute;!!! TEM FOREVER21 AGORA T-T
+---
+<p><a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/01.jpg"><img class="aligncenter wp-image-500 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/01-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/021.jpg"><img class="aligncenter wp-image-520 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/021-1024x888.jpg" alt="" width="640" height="555" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/03-e1445464129340.jpg"><img class="aligncenter wp-image-502 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/03-e1445464129340-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/04.jpg"><img class="aligncenter wp-image-503 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/04-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/05-e1445464142595.jpg"><img class="aligncenter wp-image-504 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/05-e1445464142595-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/06-e1445464214130.jpg"><img class="aligncenter wp-image-505 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/06-e1445464214130-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/07.jpg"><img class="aligncenter wp-image-506 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/07-1024x768.jpg" alt="catarina-outlet" width="640" height="480" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/08-e1445464228146.jpg"><img class="aligncenter wp-image-507 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/08-e1445464228146-1024x765.jpg" alt="catarina-outlet" width="640" height="478" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/09.jpg"><img class="aligncenter wp-image-508 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/09-1024x768.jpg" alt="catarina-outlet" width="640" height="480" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/10.jpg"><img class="aligncenter wp-image-509 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/10-1024x768.jpg" alt="catarina-outlet" width="640" height="480" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/33.jpg"><img class="aligncenter wp-image-510 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/33-1024x768.jpg" alt="catarina-outlet" width="640" height="480" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/34-e1445464402525.jpg"><img class="aligncenter wp-image-511 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/34-e1445464402525-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/44-e1445464412220.jpg"><img class="aligncenter wp-image-512 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/44-e1445464412220-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/45.jpg"><img class="aligncenter wp-image-513 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/45-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/46.jpg"><img class="aligncenter wp-image-514 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/46-1024x768.jpg" alt="catarina-outlet" width="640" height="480" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/88.jpg"><img class="aligncenter wp-image-515 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/88-1024x570.jpg" alt="catarina-outlet" width="640" height="356" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/89.jpg"><img class="aligncenter wp-image-516 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/89-1024x768.jpg" alt="catarina-outlet" width="640" height="480" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/IMG_0635.jpg"><img class="aligncenter wp-image-517 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/IMG_0635-e1445465447348-1024x765.jpg" alt="catarina-outlet" width="640" height="478" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/IMG_4931-e1445464909914.jpg"><img class="aligncenter wp-image-518 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/IMG_4931-e1445464909914-768x1024.jpg" alt="catarina-outlet" width="640" height="853" /></a> <a href="http://www.felizassim.com.br/wp-content/uploads/2015/10/IMG_4938.jpg"><img class="aligncenter wp-image-519 size-large" src="http://www.felizassim.com.br/wp-content/uploads/2015/10/IMG_4938-1024x768.jpg" alt="catarina-outlet" width="640" height="480" /></a></p>
+<p style="text-align: center;">Domingo&nbsp;eu fui conhecer&nbsp;o <a href="http://catarinaoutlet.com.br/">Catarina Fashion Outlet</a>. Ao chegar l&aacute;, descobri que o Catarina estava comemorando um ano de inaugura&ccedil;&atilde;o. Por causa disso, fui surpreendida com diversos mimos que o local&nbsp;estava oferecendo em comemora&ccedil;&atilde;o dessa data: em todo lugar voc&ecirc; encontrava atendentes entregando bal&otilde;es, sorvetes, pipoca, algod&atilde;o doce, estojinho para fazer bolhinhas de sab&atilde;o, apresenta&ccedil;&atilde;o de circo e diversos tipos de dinossauros espalhados em exposi&ccedil;&atilde;o, com direito a efeitos sonoros.</p></p>
+<p style="text-align: center;">Eu fui para o Outlet com um p&eacute; atr&aacute;s porque quando conheci o Outlet Premium, eu n&atilde;o gostei do lugar e nem dos descontos da loja (que eram nada), n&atilde;o gostei das op&ccedil;&otilde;es de restaurantes e tamb&eacute;m por fechar cedo. O Outlet&nbsp;Catarina, me surpreendeu, al&eacute;m de oferecer lojas muito melhores que a Premium, os descontos em todas as lojas eram sempre 30%, 50%, 60% e 70%, estacionamento gr&aacute;tis e hor&aacute;rio de funcionamento das 9:00 &agrave;s 21:00, uma pra&ccedil;a de alimenta&ccedil;&atilde;o enorme e Outback <3</p></p>
+<p style="text-align: center;">Se voc&ecirc; tem o costume de comprar nas mesmas lojas, voc&ecirc; come&ccedil;a a entender o padr&atilde;o dos pre&ccedil;os que eles cobram nos produtos. Saber disso &eacute; muito importante quando voc&ecirc; estiver em um Outlet porque voc&ecirc; vai realmente saber se os descontos s&atilde;o reais. Eu pude comprovar isso, por exemplo, em duas lojas que eu frequento muito, mas raramente&nbsp;compro porque &eacute; muito caro: Jorge Alex e Antix. Na Jorge Alex eu vi bolsas por R$50,00, sapatos e sand&aacute;lias por R$60,00, na Antix eu vi vestidos por R$100,00 (geralmente custam R$400,00). Voc&ecirc; acaba comprando produtos de qualidade e por um pre&ccedil;o bom. Foi engra&ccedil;ado quando entrei na Hering, voc&ecirc; pagava o pre&ccedil;o por KG de roupas que voc&ecirc; escolheu. Na Nike, meu namorado comprou um t&ecirc;nis e pagou R$170,00, mais tarde ele procurou na loja online da mesma e em outras revendedoras e o t&ecirc;nis&nbsp;estava por R$300,00.</p></p>
+<p style="text-align: center;">Foi demais a experi&ecirc;ncia, conhecer o lugar valeu muito a pena e acredito que&nbsp;a melhor op&ccedil;&atilde;o quando for comprar roupas ou qualquer outra coisa &eacute; passar por l&aacute;. Voc&ecirc; encontra lojas de roupas, sapatos, decora&ccedil;&atilde;o vintage, quadros, acess&oacute;rios, produtos para casa, entre outros.&nbsp;O melhor de tudo &eacute; que esse Outlet tem a Forever21! Imagina uma Forever21 com descontos? &Eacute; pra pirar.</p></p>
+<p style="text-align: center;">Eu tentei gravar/tirar fotos pra voc&ecirc;, mas eu estava muito empolgada, ent&atilde;o muitas coisas ficaram de fora e outras mal gravadas kkkkk</p></p>
+<p style="text-align: center;">[youtube=http://www.youtube.com/watch?v=gECwUxH4i1c]</p></p>
+<p style="text-align: center;"><b>&hearts;</b></p></p>
+<p style="text-align: center;"><a href="https://www.youtube.com/channel/UCTk3xkOSzWzf8Ba-wJN8jDA">YouTube</a> |&nbsp;<a href="https://twitter.com/lettiicee">Twitter</a>&nbsp;|&nbsp;<a href="http://www.facebook.com/blogfelizassim">Facebook</a>&nbsp;|&nbsp;<a href="https://www.bloglovin.com/blogs/feliz-assim-14224049">Bloglovin&rsquo;</a>&nbsp;|&nbsp;<a href="http://instagram.com/lettiicee">Instagram</a></p></p>

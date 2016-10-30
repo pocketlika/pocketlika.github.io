@@ -21,9 +21,11 @@ title: Home
         : <a href="{{ site.baseUrl }}/tag/{{ tag }}">{{ tag }}</a>
     {% endfor %}
   </p>
+  {% if post.cover != nil %}
   <p class="blog-post-cover">
-    <img src="{{ post.cover }}" alt="{{ post.title }}"/>
+    <img src="{{ site.baseurl }}/{{ post.cover }}" alt="{{ post.title }}"/>
   </p>
+  {% endif %}
   <div class="blog-post-excerpt">
     {{ post.excerpt }}
   </div>

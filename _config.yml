@@ -1,8 +1,8 @@
 # Test Url
-baseUrl: http://localhost:4000
+#baseUrl: http://localhost:4000
 
 # Production Url
-#baseUrl: https://pocketlika.github.io
+baseUrl: https://pocketlika.github.io
 
 # Social Media
 linkFacebook: https://www.facebook.com/pocketlika
@@ -16,7 +16,8 @@ linkInstagram: https://www.instagram.com/heylika/
 title: hey, Lika
 description: Blog
 email: pocketlika@gmail.com
-paginate: 2
+paginate: 10
+permalink: pretty
 
 # Build Settings
 gems:
