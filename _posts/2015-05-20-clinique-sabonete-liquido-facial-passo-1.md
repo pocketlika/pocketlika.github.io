@@ -1,41 +1,22 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Clinique: Sabonete l&iacute;quido facial - Passo 1'
-author:
-  display_name: lika
-  login: lamaroreis
-  email: lamaroreis@gmail.com
-  url: http://www.felizassim.com.br
-author_login: lamaroreis
-author_email: lamaroreis@gmail.com
-author_url: http://www.felizassim.com.br
-wordpress_id: 94
-wordpress_url: http://www.felizassim.com.br/?p=94
-date: '2015-05-20 23:01:58 -0300'
-date_gmt: '2015-05-20 23:01:58 -0300'
-categories:
-- Sem categoria
 tags:
 - Clinique
 - cosm&eacute;ticos
 - sabonete facial
 - sabonete l&iacute;quido facial
-comments:
-- id: 70
-  author: Norberto
-  author_email: nvreis2002@gmail.com
-  author_url: ''
-  date: '2016-07-27 15:56:00 -0300'
-  date_gmt: '2016-07-27 18:56:00 -0300'
-  content: Vixi. Sempre utilizei sabonete para lavar o rosto.
+cover: uploads/2015/05/capa-clinique-sabonete-liquido.jpg
 ---
-<p style="text-align: center;"><a href="http://52.88.2.168/wp-content/uploads/2015/05/FullSizeRender-18.jpg"><img class="aligncenter wp-image-96 size-large" src="http://52.88.2.168/wp-content/uploads/2015/05/FullSizeRender-18-1024x1024.jpg" alt="FullSizeRender 18" width="640" height="640" /></a> <a href="http://52.88.2.168/wp-content/uploads/2015/05/FullSizeRender-19.jpg"><img class="aligncenter wp-image-97 size-large" src="http://52.88.2.168/wp-content/uploads/2015/05/FullSizeRender-19-810x1024.jpg" alt="FullSizeRender 19" width="640" height="809" /></a></p></p>
-<p style="text-align: center;">Eu sou uma pessoa que AMA produtos relacionados &agrave; cuidados com a pele. Minha pele &eacute; oleosa e manter ela saud&aacute;vel e limpa era uma dor de cabe&ccedil;a, at&eacute; conhecer os produtos da Clinique.</p></p>
-<p style="text-align: center;">Sou apaixonada pelos produtos dessa marca porque n&atilde;o tem cheiro, s&atilde;o dermatologicamente testados, h&aacute; produtos espec&iacute;ficos para cada tipo de pele e s&atilde;o desenvolvidos por dermatologistas.</p></p>
-<p style="text-align: center;">Para quem n&atilde;o conhece, esse &eacute; o primeiro passo no Sistema-3 passos de cuidados com a pele da Clinique. A embalagem &eacute; muito boa, dispensa o essencial para lavar todo o rosto e rende muito, mesmo eu usando duas vezes ao dia!</p></p>
-<p style="text-align: center;">Esse &eacute; o sabonete que eu utilizo em minha rotina para manter a pele limpa e livre da oleosidade. Eu sempre compro a f&oacute;rmula espec&iacute;fica para a minha pele (oleosa/muito oleosa), <span style="line-height: 1.5;">por isso ele &eacute; t&atilde;o bom.</span></p></p>
-<p style="text-align: center;">Recomendo &agrave; voc&ecirc; que est&aacute; cansada da pele brilhando, com acnes surgindo por todo o rosto e precisa de um produto que mantenha sua pele linda e saud&aacute;vel.</p></p>
-<p style="text-align: center;">Ah! N&atilde;o usem sabonetes para lavar o rosto se n&atilde;o for espec&iacute;fico para ele.</p></p>
-<p style="text-align: center;"><b>&hearts;</b></p></p>
+
+Eu sou uma pessoa que AMA produtos relacionados &agrave; cuidados com a pele. Minha pele &eacute; oleosa e manter ela saud&aacute;vel e limpa era uma dor de cabe&ccedil;a, at&eacute; conhecer os produtos da Clinique.
+
+Sou apaixonada pelos produtos dessa marca porque n&atilde;o tem cheiro, s&atilde;o dermatologicamente testados, h&aacute; produtos espec&iacute;ficos para cada tipo de pele e s&atilde;o desenvolvidos por dermatologistas.
+
+Para quem n&atilde;o conhece, esse &eacute; o primeiro passo no Sistema-3 passos de cuidados com a pele da Clinique. A embalagem &eacute; muito boa, dispensa o essencial para lavar todo o rosto e rende muito, mesmo eu usando duas vezes ao dia!
+
+Esse &eacute; o sabonete que eu utilizo em minha rotina para manter a pele limpa e livre da oleosidade. Eu sempre compro a f&oacute;rmula espec&iacute;fica para a minha pele (oleosa/muito oleosa), por isso ele &eacute; t&atilde;o bom.
+
+Recomendo &agrave; voc&ecirc; que est&aacute; cansada da pele brilhando, com acnes surgindo por todo o rosto e precisa de um produto que mantenha sua pele linda e saud&aacute;vel.
+
+Ah! N&atilde;o usem sabonetes para lavar o rosto se n&atilde;o for espec&iacute;fico para ele.
