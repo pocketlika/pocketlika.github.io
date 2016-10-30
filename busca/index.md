@@ -9,7 +9,7 @@ title: Busca
   <input type="submit" value="search">
 </form> -->
 
-<ul id="search-results"></ul>
+<ul class="search-result-title" id="search-results"></ul>
 
 <script>
   window.store = {

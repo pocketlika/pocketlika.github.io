@@ -13,7 +13,7 @@ to the `site_tags` variable. -->
 <!-- Build the Page -->
 
 <!-- List of all tags -->
-<ul class="tags">
+<ul class="search-result-title">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <li>
@@ -25,7 +25,7 @@ to the `site_tags` variable. -->
 </ul>
 
 <!-- Posts by Tag -->
-<div>
+<div class="search-result-title">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>

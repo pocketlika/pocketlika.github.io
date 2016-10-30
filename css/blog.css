@@ -205,7 +205,8 @@ ul.nav a:hover {
   color: #5c5160;
 }
 .sidebar-module-posts a:hover {
-  text-decoration: underline;
+  /*text-decoration: underline;*/
+  color: #b5ddda;
 }
 
 
@@ -231,6 +232,7 @@ ul.nav a:hover {
 .pagination-item {
   padding: 0 10px 0 10px;
 }
+
 
 /*
  * Blog posts
@@ -435,4 +437,15 @@ ul.nav a:hover {
 
 .search-query:focus + button {
     z-index: 3;
+}
+
+.search-result-title {
+  color: #5c5160;
+}
+.search-result-title a {
+  text-transform: uppercase;
+  color: #5c5160;
+}
+.search-result-title a:hover {
+  color: #b5ddda;
 }
