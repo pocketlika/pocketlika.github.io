@@ -2,7 +2,7 @@
 layout: post
 title: 'SOCORRO!! #VEDA29'
 tags:
-- Decora&ccedil;&atilde;o
+- Decoração
 - VEDA
 - Cinema
 - Quarto
@@ -14,7 +14,7 @@ tags:
 - Center Norte
 - Homem de Ferro
 - Iron Man
-- Capit&atilde;o Am&eacute;rica
+- Capitão América
 cover: uploads/2016/04/capa-veda-29.jpg
 ---
 

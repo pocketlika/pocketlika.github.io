@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Mudan&ccedil;a e Exerc&iacute;cios #VEDA14'
+title: 'Mudança e Exercícios #VEDA14'
 tags:
 - VEDA
 - Pug
 - Spock
-- Mudan&ccedil;a
-- Exerc&iacute;cios
+- Mudança
+- Exercícios
 cover: uploads/2016/04/capa-veda-14.jpg
 ---
 

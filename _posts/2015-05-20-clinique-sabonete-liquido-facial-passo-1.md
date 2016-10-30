@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Clinique: Sabonete l&iacute;quido facial - Passo 1'
+title: 'Clinique: Sabonete líquido facial - Passo 1'
 tags:
 - Clinique
-- cosm&eacute;ticos
+- cosméticos
 - sabonete facial
-- sabonete l&iacute;quido facial
+- sabonete líquido facial
 cover: uploads/2015/05/capa-clinique-sabonete-liquido.jpg
 ---
 
-Eu sou uma pessoa que AMA produtos relacionados &agrave; cuidados com a pele. Minha pele &eacute; oleosa e manter ela saud&aacute;vel e limpa era uma dor de cabe&ccedil;a, at&eacute; conhecer os produtos da Clinique.
+Eu sou uma pessoa que AMA produtos relacionados à cuidados com a pele. Minha pele é oleosa e manter ela saudável e limpa era uma dor de cabeça, até conhecer os produtos da Clinique.
 
-Sou apaixonada pelos produtos dessa marca porque n&atilde;o tem cheiro, s&atilde;o dermatologicamente testados, h&aacute; produtos espec&iacute;ficos para cada tipo de pele e s&atilde;o desenvolvidos por dermatologistas.
+Sou apaixonada pelos produtos dessa marca porque não tem cheiro, são dermatologicamente testados, há produtos específicos para cada tipo de pele e são desenvolvidos por dermatologistas.
 
-Para quem n&atilde;o conhece, esse &eacute; o primeiro passo no Sistema-3 passos de cuidados com a pele da Clinique. A embalagem &eacute; muito boa, dispensa o essencial para lavar todo o rosto e rende muito, mesmo eu usando duas vezes ao dia!
+Para quem não conhece, esse é o primeiro passo no Sistema-3 passos de cuidados com a pele da Clinique. A embalagem é muito boa, dispensa o essencial para lavar todo o rosto e rende muito, mesmo eu usando duas vezes ao dia!
 
-Esse &eacute; o sabonete que eu utilizo em minha rotina para manter a pele limpa e livre da oleosidade. Eu sempre compro a f&oacute;rmula espec&iacute;fica para a minha pele (oleosa/muito oleosa), por isso ele &eacute; t&atilde;o bom.
+Esse é o sabonete que eu utilizo em minha rotina para manter a pele limpa e livre da oleosidade. Eu sempre compro a fórmula específica para a minha pele (oleosa/muito oleosa), por isso ele é tão bom.
 
-Recomendo &agrave; voc&ecirc; que est&aacute; cansada da pele brilhando, com acnes surgindo por todo o rosto e precisa de um produto que mantenha sua pele linda e saud&aacute;vel.
+Recomendo à você que está cansada da pele brilhando, com acnes surgindo por todo o rosto e precisa de um produto que mantenha sua pele linda e saudável.
 
-Ah! N&atilde;o usem sabonetes para lavar o rosto se n&atilde;o for espec&iacute;fico para ele.
+Ah! Não usem sabonetes para lavar o rosto se não for específico para ele.

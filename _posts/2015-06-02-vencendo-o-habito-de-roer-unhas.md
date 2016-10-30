@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Vencendo o h&aacute;bito de roer unhas
+title: Vencendo o hábito de roer unhas
 tags:
 - esmaltes
-- risqu&eacute;
+- risqué
 - roer
 - unhas
-- v&iacute;cio
+- vício
 cover: uploads/2015/06/capa-roer-unhas.jpg
 ---
 
-Eu sou uma pessoa extremamente ansiosa e desde crian&ccedil;a desconto a ansiedade roendo minhas unhas. Sendo bem sincera, nunca consegui deix&aacute;-las crescer porque se tornou um h&aacute;bito. J&aacute; tentei diversas maneiras de vencer esse v&iacute;cio: usando esmaltes com gosto ruim, pimenta, ir ao sal&atilde;o semanalmente e por ai vai.
+Eu sou uma pessoa extremamente ansiosa e desde criança desconto a ansiedade roendo minhas unhas. Sendo bem sincera, nunca consegui deixá-las crescer porque se tornou um hábito. Já tentei diversas maneiras de vencer esse vício: usando esmaltes com gosto ruim, pimenta, ir ao salão semanalmente e por ai vai.
 
-Minha dentista sempre brigava comigo quando olhava para as minhas m&atilde;os e ro&ecirc;-las n&atilde;o &eacute; s&oacute; um problema est&eacute;tico, causa anormalidade nos dentes e a saliva as deixa enfraquecida. Al&eacute;m disso, nossas m&atilde;os s&atilde;o portadoras de muitas sujeiras e acabamos ingerindo toda a bact&eacute;ria nela contida. Imagina o estrago que isso pode causar.
+Minha dentista sempre brigava comigo quando olhava para as minhas mãos e roê-las não é só um problema estético, causa anormalidade nos dentes e a saliva as deixa enfraquecida. Além disso, nossas mãos são portadoras de muitas sujeiras e acabamos ingerindo toda a bactéria nela contida. Imagina o estrago que isso pode causar.
 
-Nesse final de semana decidi que ia parar de vez com esse v&iacute;cio, e para isso eu precisaria fazer algo que n&atilde;o havia tentado antes. Eu e uma amiga fomos a uma loja comprar esmaltes e tudo o que era necess&aacute;rio para fazer a unha em casa. Escolhi os seguintes esmaltes: Risqu&eacute; Technology Base Reestruturadora, Risqu&eacute; Technology Cobertura Brilhante, Risqu&eacute; Melissa, Risqu&eacute; Cigana, Risqu&eacute; Mal&iacute;cia e Risqu&eacute; Obsess&atilde;o.
+Nesse final de semana decidi que ia parar de vez com esse vício, e para isso eu precisaria fazer algo que não havia tentado antes. Eu e uma amiga fomos a uma loja comprar esmaltes e tudo o que era necessário para fazer a unha em casa. Escolhi os seguintes esmaltes: Risqué Technology Base Reestruturadora, Risqué Technology Cobertura Brilhante, Risqué Melissa, Risqué Cigana, Risqué Malícia e Risqué Obsessão.
 
-Percebi que para mim &eacute; mais animador se eu mesma aprendesse a fazer desde a cut&iacute;cula at&eacute; a pintura. Foi bem legal a experi&ecirc;ncia, para uma primeira vez ficou at&eacute; que linda. Escolhi usar o Risqu&eacute; Obsess&atilde;o por ser uma cor mais intensa. Comecei pela base reestruturadora e finalizei com a cobertura brilhante. Vou continuar pintando a cada semana para, sempre que a vontade vier e eu olhar para as unhas bonitas, ter mais for&ccedil;as e ir adiante.
+Percebi que para mim é mais animador se eu mesma aprendesse a fazer desde a cutícula até a pintura. Foi bem legal a experiência, para uma primeira vez ficou até que linda. Escolhi usar o Risqué Obsessão por ser uma cor mais intensa. Comecei pela base reestruturadora e finalizei com a cobertura brilhante. Vou continuar pintando a cada semana para, sempre que a vontade vier e eu olhar para as unhas bonitas, ter mais forças e ir adiante.
 
-Tudo o que voc&ecirc; (que sofre desse v&iacute;cio) precisa &eacute; muita for&ccedil;a de vontade e depois ir atr&aacute;s de recursos que estimule voc&ecirc; a seguir adiante. Para mim, &eacute; empolgante o fato de aprender a cuidar das minhas pr&oacute;prias unhas, escolher/comprar a cor do esmalte que vou usar, ver minhas m&atilde;os mais bonitas e n&atilde;o querer correr mais risco de sa&uacute;de.
+Tudo o que você (que sofre desse vício) precisa é muita força de vontade e depois ir atrás de recursos que estimule você a seguir adiante. Para mim, é empolgante o fato de aprender a cuidar das minhas próprias unhas, escolher/comprar a cor do esmalte que vou usar, ver minhas mãos mais bonitas e não querer correr mais risco de saúde.
 
-Se tudo der certo, mostro para voc&ecirc; a evolu&ccedil;&atilde;o kkkkkkk
+Se tudo der certo, mostro para você a evolução kkkkkkk

@@ -5,7 +5,7 @@ tags:
 - VEDA
 - Surpresa
 - Sono
-- Pregui&ccedil;a
+- Preguiça
 cover: uploads/2016/04/capa-veda-04.jpg
 ---
 

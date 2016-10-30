@@ -8,7 +8,7 @@ tags:
 - YouCom
 - Zara
 - Legging
-- Cal&ccedil;a
+- Calça
 - Bota
 - Kimono
 - Quimono
@@ -19,7 +19,7 @@ tags:
 - Colar
 - Antix
 cover: uploads/2016/06/capa-kimono.jpg
-excerpt: Nunca tinha usado kimono nos dias mais frios. Quando vi esse na loja, foi amor a primeira vista. Na hora, uma necessidade muito grande de compr&aacute;-lo surgiu para montar o mais r&aacute;pido poss&iacute;vel um look legal para compartilhar no blog.
+excerpt: Nunca tinha usado kimono nos dias mais frios. Quando vi esse na loja, foi amor a primeira vista. Na hora, uma necessidade muito grande de comprá-lo surgiu para montar o mais rápido possível um look legal para compartilhar no blog.
 ---
 
 <img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2016/06/lookkimonojacquard01-1024x893.jpg" alt="hey, Lika"/>
@@ -36,8 +36,8 @@ excerpt: Nunca tinha usado kimono nos dias mais frios. Quando vi esse na loja, f
 
 <img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2016/06/lookkimonojacquard07-1024x834.jpg" alt="hey, Lika"/>
 
-Nunca tinha usado kimono nos dias mais frios. Quando vi esse na loja, foi amor a primeira vista. Na hora, uma necessidade muito grande de compr&aacute;-lo surgiu para montar o mais r&aacute;pido poss&iacute;vel um look legal para compartilhar no blog.
+Nunca tinha usado kimono nos dias mais frios. Quando vi esse na loja, foi amor a primeira vista. Na hora, uma necessidade muito grande de comprá-lo surgiu para montar o mais rápido possível um look legal para compartilhar no blog.
 
-Estava chuviscando e frio, mas apesar desse tempo, o kimono de jacquard me deixou bem aquecida. Amei a estampa &eacute;tnica e as cores outonais. Complementei com uma cal&ccedil;a com brilho e camiseta preta, botas e um colar abelha rainha <3
+Estava chuviscando e frio, mas apesar desse tempo, o kimono de jacquard me deixou bem aquecida. Amei a estampa étnica e as cores outonais. Complementei com uma calça com brilho e camiseta preta, botas e um colar abelha rainha <3
 
-Kimono Jacquard: **Youcom**, Camiseta: **Zara**, Cal&ccedil;a Legging Brilhante: **YouCom**, Colar: **Antix**, Botas: **Jorge Alex**, Batom: **Mac**
+Kimono Jacquard: **Youcom**, Camiseta: **Zara**, Calça Legging Brilhante: **YouCom**, Colar: **Antix**, Botas: **Jorge Alex**, Batom: **Mac**

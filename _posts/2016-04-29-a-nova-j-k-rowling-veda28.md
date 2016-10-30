@@ -14,6 +14,6 @@ tags:
 cover: uploads/2016/04/capa-veda-28.jpg
 ---
 
-Blasf&ecirc;mia? Preciso ler pra descobrir!
+Blasfêmia? Preciso ler pra descobrir!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x664KEPk7uA" frameborder="0" allowfullscreen></iframe>

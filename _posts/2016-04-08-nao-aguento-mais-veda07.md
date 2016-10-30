@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'N&atilde;o Aguento Mais #VEDA07'
+title: 'Não Aguento Mais #VEDA07'
 tags:
 - VEDA
-- Profiss&atilde;o
+- Profissão
 cover: uploads/2016/04/capa-veda-07.jpg
 ---
 
-N&atilde;o &eacute; f&aacute;cil estar na posi&ccedil;&atilde;o que estou. Sem mencionar os problemas emocionais e pessoais, estou em meio ao tratamento da depress&atilde;o, desempregada, sem dinheiro nenhum na conta, completamente perdida na &aacute;rea profissional e tudo isso aos 25 anos.
+Não é fácil estar na posição que estou. Sem mencionar os problemas emocionais e pessoais, estou em meio ao tratamento da depressão, desempregada, sem dinheiro nenhum na conta, completamente perdida na área profissional e tudo isso aos 25 anos.
 
-Se voc&ecirc; me perguntasse a muito tempo atr&aacute;s onde eu queria estar aos 25 anos, eu responderia, sem pensar duas vezes, que gostaria de ser uma mulher realizada profissionalmente, independente e pronta para a chefia at&eacute; os 30 anos.
+Se você me perguntasse a muito tempo atrás onde eu queria estar aos 25 anos, eu responderia, sem pensar duas vezes, que gostaria de ser uma mulher realizada profissionalmente, independente e pronta para a chefia até os 30 anos.
 
-&Eacute; decepcionante para mim me encontrar nessa idade completamente o oposto do que sonhei. Me martirizo todos os dias por ter escolhido errado, investido tempo e dinheiro em anos de faculdade, acordando as 5h e indo dormir depois da meia noite, vencendo o cansa&ccedil;o, preconceito, baixa autoestima e o que voc&ecirc; imaginar. Tudo isso, para conquistar o diploma e avan&ccedil;ar na carreira.
+é decepcionante para mim me encontrar nessa idade completamente o oposto do que sonhei. Me martirizo todos os dias por ter escolhido errado, investido tempo e dinheiro em anos de faculdade, acordando as 5h e indo dormir depois da meia noite, vencendo o cansaço, preconceito, baixa autoestima e o que você imaginar. Tudo isso, para conquistar o diploma e avançar na carreira.
 
-O que d&oacute;i mais &eacute; saber que n&atilde;o prestei aten&ccedil;&atilde;o aos sinais que apareceram desde o in&iacute;cio da escolha da &aacute;rea. Eu lutei tanto por uma coisa que s&oacute; estava me fazendo mal. Por negligenciar a depress&atilde;o, sempre achei que quando algo estava fora do planejado, a culpa era dela.
+O que dói mais é saber que não prestei atenção aos sinais que apareceram desde o início da escolha da área. Eu lutei tanto por uma coisa que só estava me fazendo mal. Por negligenciar a depressão, sempre achei que quando algo estava fora do planejado, a culpa era dela.
 
-Andar contra a corrente &eacute; solit&aacute;rio. Voc&ecirc; precisa estar muito confiante da escolha que faz para n&atilde;o se abalar facilmente. Eu n&atilde;o me arrependo da escolha que fiz, mas n&atilde;o me sinto confiante de vou me encontrar. A &uacute;nica coisa que eu tenho certeza &eacute; que eu estou muito mais feliz hoje do que na &eacute;poca que estava na carreira que construi e que todos admiravam.
+Andar contra a corrente é solitário. Você precisa estar muito confiante da escolha que faz para não se abalar facilmente. Eu não me arrependo da escolha que fiz, mas não me sinto confiante de vou me encontrar. A única coisa que eu tenho certeza é que eu estou muito mais feliz hoje do que na época que estava na carreira que construi e que todos admiravam.
 
-Quando recebi esse seguinte coment&aacute;rio ontem: "Eu aqui o dia inteiro quebrando a cabe&ccedil;a com um problema de programa&ccedil;&atilde;o e uma menina como voc&ecirc;, formada em Ci&ecirc;ncia da Computa&ccedil;&atilde;o, sem nada de "interessante" pra gravar/fazer. Que desperd&iacute;cio de tempo. Podia &eacute; estar me ajudando a resolver isso aqui." Foi como se a pessoa acertasse bem fundo o meu ponto fraco. Todas as minhas inseguran&ccedil;as vieram a tona e eu desmoronei em choro.
+Quando recebi esse seguinte comentário ontem: "Eu aqui o dia inteiro quebrando a cabeça com um problema de programação e uma menina como você, formada em Ciência da Computação, sem nada de "interessante" pra gravar/fazer. Que desperdício de tempo. Podia é estar me ajudando a resolver isso aqui." Foi como se a pessoa acertasse bem fundo o meu ponto fraco. Todas as minhas inseguranças vieram a tona e eu desmoronei em choro.
 
-Engra&ccedil;ado que era exatamente isso que me impedia de criar coragem e cortar o mal pela raiz. Eu sabia que iria ouvir diariamente coisas do tipo: louca, corajosa, irrespons&aacute;vel, imatura, sonhadora, idealista, crian&ccedil;a, que andei v&aacute;rios passos para tr&aacute;s na minha vida, que n&atilde;o iria encontrar carreira que n&atilde;o parecesse &iacute;nfimas perto da minha antiga ou que estou desperdi&ccedil;ando "minha intelig&ecirc;ncia e capacidade" em uma &aacute;rea que n&atilde;o &eacute; a do "futuro". Cheguei at&eacute; pensar que meu valor como pessoa seria diminu&iacute;do.
+Engraçado que era exatamente isso que me impedia de criar coragem e cortar o mal pela raiz. Eu sabia que iria ouvir diariamente coisas do tipo: louca, corajosa, irresponsável, imatura, sonhadora, idealista, criança, que andei vários passos para trás na minha vida, que não iria encontrar carreira que não parecesse ínfimas perto da minha antiga ou que estou desperdiçando "minha inteligência e capacidade" em uma área que não é a do "futuro". Cheguei até pensar que meu valor como pessoa seria diminuído.
 
-N&atilde;o foi f&aacute;cil concluir: "Chega, n&atilde;o vou insistir nessa &aacute;rea que me faz mal". S&oacute; que tamb&eacute;m n&atilde;o &eacute; f&aacute;cil n&atilde;o saber para onde ir. Ent&atilde;o eu peso na balan&ccedil;a essas duas frases e a segunda sempre ganha porque &eacute; nela que eu me sinto feliz. Eu n&atilde;o leio mais e-mail motivacionais, n&atilde;o sinto que estou perdendo tempo da minha vida ou produzindo algo sem sentido.
+Não foi fácil concluir: "Chega, não vou insistir nessa área que me faz mal". Só que também não é fácil não saber para onde ir. Então eu peso na balança essas duas frases e a segunda sempre ganha porque é nela que eu me sinto feliz. Eu não leio mais e-mail motivacionais, não sinto que estou perdendo tempo da minha vida ou produzindo algo sem sentido.
 
-Quando estava olhando para a tela e sem vontade nenhuma de continuar perdendo meu tempo naquela &aacute;rea, eu sabia que queria encontrar algo que meu tempo fosse dedicado a outra pessoa, que eu tivesse contato com elas, que meu trabalho produzisse frutos diretamente na vida de algu&eacute;m, ajudando-a de alguma forma, em contato com ela. Isso sim &eacute; um trabalho produtivo pra mim.
+Quando estava olhando para a tela e sem vontade nenhuma de continuar perdendo meu tempo naquela área, eu sabia que queria encontrar algo que meu tempo fosse dedicado a outra pessoa, que eu tivesse contato com elas, que meu trabalho produzisse frutos diretamente na vida de alguém, ajudando-a de alguma forma, em contato com ela. Isso sim é um trabalho produtivo pra mim.
 
-Eu preciso escrever. Parece que vou explodir se n&atilde;o o fizer. Minha cabe&ccedil;a fica mais tranquila e organizada quando coloco em palavras todo esse turbilh&atilde;o de emo&ccedil;&otilde;es. Me sinto completamente sozinha e perdida, mas livre, como nunca fui.
+Eu preciso escrever. Parece que vou explodir se não o fizer. Minha cabeça fica mais tranquila e organizada quando coloco em palavras todo esse turbilhão de emoções. Me sinto completamente sozinha e perdida, mas livre, como nunca fui.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpYZ8PVY_48" frameborder="0" allowfullscreen></iframe>

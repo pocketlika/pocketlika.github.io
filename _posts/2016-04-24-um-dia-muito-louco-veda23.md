@@ -2,11 +2,11 @@
 layout: post
 title: 'Um Dia Muito Louco #VEDA23'
 tags:
-- Doa&ccedil;&atilde;o
+- Doação
 - VEDA
 - Igreja
-- Assembl&eacute;ia
-- Almo&ccedil;o
+- Assembléia
+- Almoço
 cover: uploads/2016/04/capa-veda-23.jpg
 ---
 

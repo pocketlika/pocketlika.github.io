@@ -9,7 +9,7 @@ tags:
 - Hidratante
 - Kiehls
 - Pele
-- '&Oacute;leo'
+- 'óleo'
 - Karma Kream
 - Helping Hands
 - Bubblegum
@@ -24,28 +24,28 @@ tags:
 cover: uploads/2016/06/capa-essenciais-inverno.jpg
 ---
 
-O inverno chegou adiantado e isso s&oacute; intensifica a minha alegria. Amo essa esta&ccedil;&atilde;o porque &eacute; mais confort&aacute;vel. Como tenho uma boa parcela de introvers&atilde;o, n&atilde;o dispenso atividades em casa e o inverno ajuda muito nisso. Fora que as roupas s&atilde;o mais bonitas e montar looks fica bem mais divertido. S&oacute; que eu preciso lutar mais contra a minha neglig&ecirc;ncia em cuidados com a pele. Vou compartilhar com voc&ecirc; meus favoritos e indispens&aacute;veis para o dia a dia.
+O inverno chegou adiantado e isso só intensifica a minha alegria. Amo essa estação porque é mais confortável. Como tenho uma boa parcela de introversão, não dispenso atividades em casa e o inverno ajuda muito nisso. Fora que as roupas são mais bonitas e montar looks fica bem mais divertido. Só que eu preciso lutar mais contra a minha negligência em cuidados com a pele. Vou compartilhar com você meus favoritos e indispensáveis para o dia a dia.
 
-**para as M&atilde;os**
+**para as Mãos**
 
-Meu amor pela <a href="https://www.lush.com.br">Lush</a> j&aacute; foi declarado por aqui v&aacute;rias vezes (rs), e o que salva minhas m&atilde;os no inverno &eacute; o <a href="https://www.lush.com.br/produtos/helping-hands">Helping Hands</a>. Eu sempre procuro comprar cremes com r&aacute;pida absor&ccedil;&atilde;o porque odeio ficar me sentindo grudenta. Esse creme, al&eacute;m de ser maravilhoso, &eacute; absorvido rapidamente. Toda vez que eu uso, n&atilde;o preciso esperar muito para continuar minhas atividades <3
+Meu amor pela <a href="https://www.lush.com.br">Lush</a> já foi declarado por aqui várias vezes (rs), e o que salva minhas mãos no inverno é o <a href="https://www.lush.com.br/produtos/helping-hands">Helping Hands</a>. Eu sempre procuro comprar cremes com rápida absorção porque odeio ficar me sentindo grudenta. Esse creme, além de ser maravilhoso, é absorvido rapidamente. Toda vez que eu uso, não preciso esperar muito para continuar minhas atividades <3
 
 **para o Corpo**
 
-O <a href="https://www.lush.com.br/produtos/karma-kream">Karma Kream</a> &eacute; composto de &oacute;leo de am&ecirc;ndoa e manteiga de cacau, um time importante para repor a hidrata&ccedil;&atilde;o que perdemos durante o dia. Ainda mais com o frio ajudando a nossa pele a ficar mais ressecada.
+O <a href="https://www.lush.com.br/produtos/karma-kream">Karma Kream</a> é composto de óleo de amêndoa e manteiga de cacau, um time importante para repor a hidratação que perdemos durante o dia. Ainda mais com o frio ajudando a nossa pele a ficar mais ressecada.
 
-Eu complemento a hidrata&ccedil;&atilde;o com o <a href="http://www.kiehls.com.br/cuidados-com-o-rosto/por-necessidade/anti-idade/midnight-recovery-concentrate">Midnight Recovery Concentrate</a>, da <a href="http://www.kiehls.com.br/">Kiehl's</a>. Ele &eacute; um pacote completo para mim. Tem um perfume incr&iacute;vel, n&atilde;o me deixa grudenta, &eacute; para ser usado &agrave; noite e prepara sua pele para quando acordar.
+Eu complemento a hidratação com o <a href="http://www.kiehls.com.br/cuidados-com-o-rosto/por-necessidade/anti-idade/midnight-recovery-concentrate">Midnight Recovery Concentrate</a>, da <a href="http://www.kiehls.com.br/">Kiehl's</a>. Ele é um pacote completo para mim. Tem um perfume incrível, não me deixa grudenta, é para ser usado à noite e prepara sua pele para quando acordar.
 
-Eu costumo usar &oacute;leo no corpo s&oacute; a noite mesmo e nas esta&ccedil;&otilde;es mais frias. Um detalhe importante: o creme hidratante deve ser usado primeiro para repor o que perdemos durante o dia e o &oacute;leo vem logo em seguida para que ele forme uma barreira protetora para reter a hidrata&ccedil;&atilde;o do corpo. Como a pele do meu corpo &eacute; seca, eu uso todos os dias.
+Eu costumo usar óleo no corpo só a noite mesmo e nas estações mais frias. Um detalhe importante: o creme hidratante deve ser usado primeiro para repor o que perdemos durante o dia e o óleo vem logo em seguida para que ele forme uma barreira protetora para reter a hidratação do corpo. Como a pele do meu corpo é seca, eu uso todos os dias.
 
 **para o Rosto**
 
-AMO cuidar do meu rosto <3 (apesar da neglig&ecirc;ncia rs). N&atilde;o abro m&atilde;o do hidratante amarelinho da Clinique, fa&ccedil;a chuva ou fa&ccedil;a sol, frio ou calor, eles est&aacute; comigo. Eu gosto de us&aacute;-lo antes da maquiagem e, no frio, antes do hidratante mais potente.
+AMO cuidar do meu rosto <3 (apesar da negligência rs). Não abro mão do hidratante amarelinho da Clinique, faça chuva ou faça sol, frio ou calor, eles está comigo. Eu gosto de usá-lo antes da maquiagem e, no frio, antes do hidratante mais potente.
 
-Esse amarelinho n&atilde;o &eacute; um hidratante sozinho. Ele tem a fun&ccedil;&atilde;o de preparar a pele para receber a hidrata&ccedil;&atilde;o de verdade. Por isso no ver&atilde;o eu uso somente ele antes da maquiagem e s&oacute; &aacute; noite eu complemento com algum outro. J&aacute; no inverno eu SEMPRE utilizo o hidratante rosinha (lindo) da <a href="http://www.clinique.com.br/">Clinique</a> como auxiliar ao amarelinho.
+Esse amarelinho não é um hidratante sozinho. Ele tem a função de preparar a pele para receber a hidratação de verdade. Por isso no verão eu uso somente ele antes da maquiagem e só á noite eu complemento com algum outro. Já no inverno eu SEMPRE utilizo o hidratante rosinha (lindo) da <a href="http://www.clinique.com.br/">Clinique</a> como auxiliar ao amarelinho.
 
-O rosinha &eacute; uma linha nova que a Clinique lan&ccedil;ou porque ele &eacute; o <a href="http://www.clinique.com.br/product/1687/5089/Skin-Care/Hidratantes/Moisture-Surge-Extended-Thirst-Relief">Extended Thirst Relief</a>. &Eacute; um hidratante mais potente, tanto que a textura dele no rosto parece de &aacute;gua. ~ADORO~
+O rosinha é uma linha nova que a Clinique lançou porque ele é o <a href="http://www.clinique.com.br/product/1687/5089/Skin-Care/Hidratantes/Moisture-Surge-Extended-Thirst-Relief">Extended Thirst Relief</a>. é um hidratante mais potente, tanto que a textura dele no rosto parece de água. ~ADORO~
 
-Outro detalhe, uma &aacute;rea delicada do rosto &eacute; a regi&atilde;o dos olhos. Escolhi o <a href="https://www.lush.com.br/produtos/enchanted-eye-cream">Enchanted Eye</a> por ser carregado de &oacute;leo e mant&eacute; a pele fime e nutrida. Em dias alternados, complemento meus essenciais com o <a href="https://www.lush.com.br/produtos/bubblegum">BubbleGum</a> para a esfolia&ccedil;&atilde;o dos l&aacute;bios, ele hidrata e mant&eacute;m renovado a pele ressecada. Lush &eacute; Lush, n&eacute;? Muito amor <3
+Outro detalhe, uma área delicada do rosto é a região dos olhos. Escolhi o <a href="https://www.lush.com.br/produtos/enchanted-eye-cream">Enchanted Eye</a> por ser carregado de óleo e manté a pele fime e nutrida. Em dias alternados, complemento meus essenciais com o <a href="https://www.lush.com.br/produtos/bubblegum">BubbleGum</a> para a esfoliação dos lábios, ele hidrata e mantém renovado a pele ressecada. Lush é Lush, né? Muito amor <3
 
-Enfim, a lista &eacute; extensa, mas quando isso vira sua rotina, voc&ecirc; acaba querendo complementa-la mais e mais rs Separei somente os meus essenciais, mas voc&ecirc; pode acrescentar mais e abusar de esfoliante para o corpo e rosto, m&aacute;scara facial, gel de banho super cheirosos e o que te fizer mais feliz <3
+Enfim, a lista é extensa, mas quando isso vira sua rotina, você acaba querendo complementa-la mais e mais rs Separei somente os meus essenciais, mas você pode acrescentar mais e abusar de esfoliante para o corpo e rosto, máscara facial, gel de banho super cheirosos e o que te fizer mais feliz <3

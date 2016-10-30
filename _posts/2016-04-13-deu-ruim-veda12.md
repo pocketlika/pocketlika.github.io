@@ -5,7 +5,7 @@ tags:
 - VEDA
 - Lactase
 - Lactose
-- Intoler&acirc;ncia
+- Intolerância
 - Rapid Relief
 cover: uploads/2016/04/capa-veda-12.jpg
 ---

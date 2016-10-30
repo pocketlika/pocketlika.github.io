@@ -18,8 +18,8 @@ tags:
 cover: uploads/2016/04/capa-veda-01.jpg
 ---
 
-Yeah! Vamos aproveitar que o m&ecirc;s acabou e come&ccedil;ar o meu primeiro VEDA (vlog everyday april) falando sobre meus itens favoritos de Mar&ccedil;o. UHULL!
+Yeah! Vamos aproveitar que o mês acabou e começar o meu primeiro VEDA (vlog everyday april) falando sobre meus itens favoritos de Março. UHULL!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKe8_h5oIdE" frameborder="0" allowfullscreen></iframe>
 
-ps.: n&atilde;o sabe o que &eacute; VEDA? Nem eu sabia at&eacute; agora kkkkk Amanh&atilde; explico tudo :*
+ps.: não sabe o que é VEDA? Nem eu sabia até agora kkkkk Amanhã explico tudo :*

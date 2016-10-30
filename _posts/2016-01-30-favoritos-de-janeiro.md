@@ -9,8 +9,8 @@ tags:
 - Lush
 - Augusto Cury
 - Holocausto Nunca Mais
-- Colecionador de L&aacute;grimas
-- Botic&aacute;rio
+- Colecionador de Lágrimas
+- Boticário
 - Star Wars
 - Rey
 cover: uploads/2016/01/capa-favoritos-janeiro.png
@@ -18,6 +18,6 @@ cover: uploads/2016/01/capa-favoritos-janeiro.png
 
 Janeiro finalmente acabou! UHULL <3
 
-A partir desse ano publicarei v&iacute;deo de favoritos para voc&ecirc; todo final de m&ecirc;s.
+A partir desse ano publicarei vídeo de favoritos para você todo final de mês.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/31fJNRB3e7I" frameborder="0" allowfullscreen></iframe>

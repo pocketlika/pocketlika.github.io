@@ -6,7 +6,7 @@ tags:
 - Hidratante
 - Cabelo
 - Lush
-- Botic&aacute;rio
+- Boticário
 - Eudora
 - Soul
 - Reparador
@@ -14,11 +14,11 @@ tags:
 - Corpo
 - Marquiagem
 - Shiseido
-- P&oacute;
+- Pó
 - Base
 cover: uploads/2016/03/capa-favoritos-fevereiro.jpg
 ---
 
-UhULLL! Esse &eacute; o v&iacute;deo mais divertido de fazer no m&ecirc;s hahah ADORO compartilhar com voc&ecirc;s meus mimos e amores que tenho/comprei/ganhei <3
+UhULLL! Esse é o vídeo mais divertido de fazer no mês hahah ADORO compartilhar com vocês meus mimos e amores que tenho/comprei/ganhei <3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B-4vyFrbJqg" frameborder="0" allowfullscreen></iframe>
