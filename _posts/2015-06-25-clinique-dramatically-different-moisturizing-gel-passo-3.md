@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clinique: Dramatically Different Moisturizing Gel &ndash; Passo 3'
+title: 'Clinique: Dramatically Different Moisturizing Gel - Passo 3'
 tags:
 - Clinique
 - Creme
