@@ -19,9 +19,11 @@ layout: default
   {% endfor %}
 </p>
 
+{% if post.cover != nil %}
 <p class="blog-post-cover">
   <img src="{{ site.baseurl }}/{{ page.cover }}" alt="{{ page.title }}"/>
 </p>
+{% endif %}
 
 {{ content }}
 
