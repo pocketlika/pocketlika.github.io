@@ -9,7 +9,7 @@ tags:
 cover: uploads/2015/06/capa-clinique-clarifying.jpg
 ---
 
-Eu <a href="http://www.felizassim.com.br/clinique-sabonete-liquido-facial-passo-1/">postei</a> sobre o 1&ordm; Passo no Sistema de Cuidados com a Pele da Clinique e agora quero compartilhar com voc&ecirc; qual &eacute; o que eu uso em seguida. Depois de lavar bem o rosto, o 2&ordm; passo &eacute; a lo&ccedil;&atilde;o de esfolia&ccedil;&atilde;o suave que prepara a pela para a hidrata&ccedil;&atilde;o e eu realmente sinto o que prometeram: uma pele limpa e fresca.
+Eu <a href="{{ site.baseUrl }}/clinique-sabonete-liquido-facial-passo-1/">postei</a> sobre o 1&ordm; Passo no Sistema de Cuidados com a Pele da Clinique e agora quero compartilhar com voc&ecirc; qual &eacute; o que eu uso em seguida. Depois de lavar bem o rosto, o 2&ordm; passo &eacute; a lo&ccedil;&atilde;o de esfolia&ccedil;&atilde;o suave que prepara a pela para a hidrata&ccedil;&atilde;o e eu realmente sinto o que prometeram: uma pele limpa e fresca.
 
 Sempre uso o <a href="http://www.clinique.com.br/products/spp/index.tmpl?CATEGORY_ID=CAT1573&amp;PRODUCT_ID=PROD15503">Clinique: Clarifying Lotion 3</a>, espec&iacute;fico para retirar o excesso de oleosidade da pele, mas este que est&aacute; na foto &eacute; o Clinique Clarifying Lotion Mild, o que estou usando atualmente. Essa lo&ccedil;&atilde;o &eacute; um esfloiante para peles sens&iacute;veis, eu comprei para testar e n&atilde;o gostei. N&atilde;o sinto a mesma sensa&ccedil;&atilde;o de limpeza que o outro.
 
