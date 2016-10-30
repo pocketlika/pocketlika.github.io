@@ -22,7 +22,6 @@ tags:
 - Midnight Recovery
 - Enchanted eyes
 cover: uploads/2016/06/capa-essenciais-inverno.jpg
-excerpt: O inverno chegou adiantado e isso s&oacute; intensifica a minha alegria. Amo essa esta&ccedil;&atilde;o porque &eacute; mais confort&aacute;vel. Como tenho uma boa parcela de introvers&atilde;o, n&atilde;o dispenso atividades em casa e o inverno ajuda muito nisso.
 ---
 
 O inverno chegou adiantado e isso s&oacute; intensifica a minha alegria. Amo essa esta&ccedil;&atilde;o porque &eacute; mais confort&aacute;vel. Como tenho uma boa parcela de introvers&atilde;o, n&atilde;o dispenso atividades em casa e o inverno ajuda muito nisso. Fora que as roupas s&atilde;o mais bonitas e montar looks fica bem mais divertido. S&oacute; que eu preciso lutar mais contra a minha neglig&ecirc;ncia em cuidados com a pele. Vou&nbsp;compartilhar com voc&ecirc; meus favoritos e indispens&aacute;veis para o dia a dia.

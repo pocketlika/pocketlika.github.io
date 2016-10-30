@@ -8,7 +8,6 @@ tags:
 - amigos
 - cansa&ccedil;o
 cover: uploads/2016/06/capa-nao-feliz-assim.jpg
-excerpt: Que eu tenho depress&atilde;o e estou tratando ela, muitos j&aacute; sabem. Tanto que a cria&ccedil;&atilde;o desse blog foi fruto do tratamento que ainda est&aacute; em processo. O isolamento acompanha a depress&atilde;o e no in&iacute;cio da doen&ccedil;a comecei a me isolar do mundo e isso s&oacute; foi piorando.
 ---
 
 Que eu tenho depress&atilde;o e estou tratando ela, muitos j&aacute; sabem. Tanto que a cria&ccedil;&atilde;o desse blog foi fruto do tratamento que ainda est&aacute; em processo. O isolamento acompanha a depress&atilde;o e no in&iacute;cio da doen&ccedil;a comecei a me isolar do mundo e isso s&oacute; foi piorando.

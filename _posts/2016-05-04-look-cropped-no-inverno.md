@@ -20,7 +20,6 @@ tags:
 - Chillibeans
 - '&Oacute;culos'
 cover: uploads/2016/05/capa-look-inverno.jpg
-excerpt: Nesse momento, a minha&nbsp;loja favorita para comprar roupas &eacute; a <a href="http://www.youcom.com.br/">YouCom</a>. Minha paix&atilde;o por ela j&aacute; foi declarada diversas vezes aqui no blog hahah. At&eacute; fiz o meu primeiro <a href="https://www.youtube.com/watch?v=KOq1fULUy30">lookbook no canal</a> s&oacute; com roupas de l&aacute;.
 ---
 
 Nesse momento, a minha&nbsp;loja favorita para comprar roupas &eacute; a <a href="http://www.youcom.com.br/">YouCom</a>. Minha paix&atilde;o por ela j&aacute; foi declarada diversas vezes aqui no blog hahah. At&eacute; fiz o meu primeiro <a href="https://www.youtube.com/watch?v=KOq1fULUy30">lookbook no canal</a> s&oacute; com roupas de l&aacute;.

@@ -12,7 +12,6 @@ tags:
 - crian&ccedil;as
 - comemora&ccedil;&atilde;o
 cover: uploads/2016/06/capa-loot-gift.jpg
-excerpt: Meu namorado e eu gostamos muito de nos presentear. A gente sempre procura comprar um para o outro algo que seja &uacute;til. No dia das crian&ccedil;as, por exemplo, a regra &eacute; simples, tem que ser algo nerd. O que esse dia transmite&nbsp;de divertido, o dos Namorados consegue deixar ainda&nbsp;mais emocionante. Sei l&aacute;, fica um clima mais rom&acirc;ntico. Fico at&eacute;&nbsp;mais criativa.
 ---
 
 Meu namorado e eu gostamos muito de nos presentear. A gente sempre procura comprar um para o outro algo que seja &uacute;til. No dia das crian&ccedil;as, por exemplo, a regra &eacute; simples: tem que ser algo nerd. O que esse dia transmite&nbsp;de divertido, o dos Namorados consegue deixar ainda&nbsp;mais emocionante. Sei l&aacute;, fica um clima mais rom&acirc;ntico. Fico at&eacute;&nbsp;mais criativa.

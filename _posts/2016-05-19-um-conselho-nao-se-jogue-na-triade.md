@@ -12,7 +12,6 @@ tags:
 - escolhas
 - autor
 cover: uploads/2016/05/capa-conselho.jpg
-excerpt: Eu senti muita vontade de escrever para voc&ecirc;. Esse post &eacute; como se fosse um abra&ccedil;o calmante. Sem delongas. O que &eacute;&nbsp;<em>tr&iacute;ade</em>, Lika? Nada mais, nada menos:<em>&nbsp;</em>&nbsp;<strong>Enem, cursinho e faculdade</strong>.&nbsp;Calma, n&atilde;o estou falando para voc&ecirc; jogar tudo para o alto durante o colegial e sei l&aacute;.... vai saber o que voc&ecirc; queria fazer hahaha.
 ---
 
 Eu senti muita vontade de escrever para voc&ecirc;. Esse post &eacute; como se fosse um abra&ccedil;o calmante. Sem delongas. O que &eacute;&nbsp;<em>tr&iacute;ade</em>, Lika? Nada mais, nada menos:<em>&nbsp;</em>&nbsp;<strong>Enem, cursinho e faculdade</strong>.&nbsp;Calma, n&atilde;o estou falando para voc&ecirc; jogar tudo para o alto durante o colegial e sei l&aacute;.... vai saber o que voc&ecirc; queria fazer hahaha.

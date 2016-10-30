@@ -9,7 +9,6 @@ tags:
 - Nariz
 - M&eacute;dico
 cover: uploads/2016/06/capa-sonho-realizado.jpg
-excerpt: Voc&ecirc; tamb&eacute;m sonha muito? Eu sou dessas pessoas que quando sonha com algo, sonha com coisas t&atilde;o altas que n&atilde;o acredita tanto assim&nbsp;que ir&aacute; realizar t&atilde;o cedo hahhahaha. N&atilde;o importa o tamanho do seu sonho ou qual ele seja, para voc&ecirc; ele &eacute; importante.
 ---
 
 Voc&ecirc; tamb&eacute;m sonha muito? Eu sou dessas pessoas que quando sonha com algo, sonha com coisas t&atilde;o altas que n&atilde;o acredita tanto assim&nbsp;que ir&aacute; realizar t&atilde;o cedo hahhahaha. N&atilde;o importa o tamanho do seu sonho ou qual ele seja, para voc&ecirc; ele &eacute; importante. Por exemplo, eu sonho em vencer alguns medos meus: dirigir, liderar projetos, escrever minhas opini&otilde;es no blog, filmar algo no canal, tirar fotos de looks, me tornar mais independente, trabalhar com o que eu gosto, etc.

@@ -5,7 +5,6 @@ tags:
 - VEDA
 - Outback
 cover: uploads/2016/05/capa-veda-30.jpg
-excerpt: Finalmente acabou esse VEDAAAA! UHULL! kkkkkk
 ---
 
 Finalmente acabou esse VEDAAAA! UHULL! kkkkkk
