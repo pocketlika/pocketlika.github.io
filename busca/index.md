@@ -3,12 +3,6 @@ layout: search
 title: Busca
 ---
 
-<!-- <form action="/search.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form> -->
-
 <ul class="search-result-title" id="search-results"></ul>
 
 <script>
