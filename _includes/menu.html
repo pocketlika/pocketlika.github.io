@@ -11,20 +11,25 @@
 </div>
 
 <nav class="blog-nav">
-  <ul class="nav nav-justified">
-    <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/beauty">BEAUTY</a></li>
-    <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/diary">DIARY</a></li>
-    <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/lookbook">LOOKBOOK</a></li>
-    <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/places">PLACES</a></li>
-    <li>
-      <form class="navbar-form" role="search" action="{{ site.baseUrl }}/busca" method="get">
-        <div class="input-group">
-          <input class="blog-nav-input form-control" type="search" id="search-box" name="query" placeholder="SEARCH">
-          <div class="input-group-btn">
-            <button class="btn btn-link" type="submit"><i class="glyphicon glyphicon-search"></i></button>
-          </div>
+  <div class="col-sm-8">
+    <ul class="nav nav-justified">
+      <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/beauty">BEAUTY</a></li>
+      <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/diary">DIARY</a></li>
+      <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/lookbook">LOOKBOOK</a></li>
+      <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/places">PLACES</a></li>
+    </ul>
+  </div>
+  <div class="col-sm-1">
+    <!-- COOKIE MONSTER ATE THIS CONTENT -->
+  </div>
+  <div class="col-sm-3">
+    <form class="navbar-form" role="search" action="{{ site.baseUrl }}/busca" method="get">
+      <div class="input-group">
+        <input class="blog-nav-input form-control" type="search" id="search-box" name="query" placeholder="SEARCH">
+        <div class="input-group-btn">
+          <button class="btn btn-link" type="submit"><i class="glyphicon glyphicon-search"></i></button>
         </div>
-      </form>
-    </li>
-  </ul>
+      </div>
+    </form>
+  </div>
 </nav>
