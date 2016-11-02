@@ -127,6 +127,7 @@ ul.nav a:hover {
 }
 .blog-sidebar {
   margin: -15px 0 0 0;
+  padding-left: 70px;
 }
 
 /* Sidebar modules for boxing content */
