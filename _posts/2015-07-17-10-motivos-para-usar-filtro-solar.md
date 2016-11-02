@@ -11,25 +11,25 @@ O meu filtro solar favorito ultimamente é o <a href="http://www.lojaadcos.com.b
 
 Separei alguns motivos sobre a importância do uso diário, em específico da marca ADCOS:
 
-<strong>1- Ação hidratante</strong>: rápida absorção e deixa uma sensação de toque seco e sedoso;
+**1- Ação hidratante**: rápida absorção e deixa uma sensação de toque seco e sedoso;
 
-<strong>2- Oil free</strong>: Ideal para pele oleosas;
+**2- Oil free**: Ideal para pele oleosas;
 
-<strong>3- Dermatologicamente testado</strong>;
+**3- Dermatologicamente testado**;
 
-<strong>4- Protege o DNA celular</strong>: combate os danos causados pela radiação solar, prevenindo o envelhecimento precoce e o câncer de pele;
+**4- Protege o DNA celular**: combate os danos causados pela radiação solar, prevenindo o envelhecimento precoce e o câncer de pele;
 
-<strong>5- Ação antioxidante</strong>: combate e previne os danos causados pelos radicais livres (um dos fatores que aceleram a produção de radicais livres é a exposição ao sol e à radiação ultravioleta);
+**5- Ação antioxidante**: combate e previne os danos causados pelos radicais livres (um dos fatores que aceleram a produção de radicais livres é a exposição ao sol e à radiação ultravioleta);
 
-<strong>6- Proteção UVA (PPD 7 / UVA 50%)</strong>: radiação presente todo o ano e penetra profundamente na pele tanto no verão quanto no inverno, responsável pelo envelhecimento da pele, alergias e câncer.
+**6- Proteção UVA (PPD 7 / UVA 50%)**: radiação presente todo o ano e penetra profundamente na pele tanto no verão quanto no inverno, responsável pelo envelhecimento da pele, alergias e câncer.
 
-<strong>7- Proteção UVB</strong>:<strong> </strong>radiação presente com mais intensidade no verão e penetra superficialmente na pele, responsável pelas queimaduras do sol e envelhecimento da pele.
+**7- Proteção UVB**:** **radiação presente com mais intensidade no verão e penetra superficialmente na pele, responsável pelas queimaduras do sol e envelhecimento da pele.
 
-<strong>8- Não comedogênico</strong>: o nome científico para o cravo é "<strong>Comedão</strong>", portanto esse filtro solar não favorece ou aumenta a obstrução dos poros, evitando o surgimento de cravos, ótimo item para pele oleosas;
+**8- Não comedogênico**: o nome científico para o cravo é "**Comedão**", portanto esse filtro solar não favorece ou aumenta a obstrução dos poros, evitando o surgimento de cravos, ótimo item para pele oleosas;
 
-<strong>9- Livre de parabenos</strong>: produto químico utilizado para conservar os cosméticos, com capacidade solvente, antimicrobiana, antibacteriana e antifúngica. Associada à maior probabilidade de cânceres hormônio-dependentes, especialmente o câncer de mama porque imitam o comportamento do estrogênio (<a href="http://belezaesaude.com/parabenos/">clique aqui </a>para mais informações);
+**9- Livre de parabenos**: produto químico utilizado para conservar os cosméticos, com capacidade solvente, antimicrobiana, antibacteriana e antifúngica. Associada à maior probabilidade de cânceres hormônio-dependentes, especialmente o câncer de mama porque imitam o comportamento do estrogênio (<a href="http://belezaesaude.com/parabenos/">clique aqui </a>para mais informações);
 
-<strong>10-</strong> <strong>Filtros fotoestáveis</strong>: a maioria dos produtos são <strong>fotoinstáveis</strong>, ou seja, proteção UVA/UVB de curta duração porque a maioria dos filtros é inativado quanto expostos ao sol. Este que eu uso no entanto tem proteção prolongada, garantindo proteção estável com eficácia contra os raios UVA e UVB durante todo o tempo de utilização.
+**10-** **Filtros fotoestáveis**: a maioria dos produtos são **fotoinstáveis**, ou seja, proteção UVA/UVB de curta duração porque a maioria dos filtros é inativado quanto expostos ao sol. Este que eu uso no entanto tem proteção prolongada, garantindo proteção estável com eficácia contra os raios UVA e UVB durante todo o tempo de utilização.
 
 Eu amei esse vídeo e quero compartilhar com você o quão fofo e didático ele é sobre a agressão do sol em nossa pele:
 

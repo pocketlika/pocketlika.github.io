@@ -6,7 +6,7 @@ tags:
 cover: uploads/2016/05/capa-conselho.jpg
 ---
 
-Eu senti muita vontade de escrever para você. Esse post é como se fosse um abraço calmante. Sem delongas. O que é <em>tríade</em>, Lika? Nada mais, nada menos:<em> </em> <strong>Enem, cursinho e faculdade</strong>. Calma, não estou falando para você jogar tudo para o alto durante o colegial e sei lá.... vai saber o que você queria fazer hahaha.
+Eu senti muita vontade de escrever para você. Esse post é como se fosse um abraço calmante. Sem delongas. O que é <em>tríade</em>, Lika? Nada mais, nada menos:<em> </em> **Enem, cursinho e faculdade**. Calma, não estou falando para você jogar tudo para o alto durante o colegial e sei lá.... vai saber o que você queria fazer hahaha.
 
 Quando eu tinha 17 anos, eu não tinha a Mí-NI-MA ideia de quem eu era, do que gostava e, muito menos, capacidade para decidir algo que definiria toda a minha carreira profissional. As cobranças que a <em>tríade</em> exercia durante essa minha fase me deixava completamente louca. Adrenalina pura e muita pressão.
 

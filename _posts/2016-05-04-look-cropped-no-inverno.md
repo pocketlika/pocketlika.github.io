@@ -12,4 +12,4 @@ O que eu aprendi a usar no verão esse ano foram as peças cropped e agora que e
 
 Eu escolhi usar com uma camisa jeans por baixo. Gostei muito desse look porque é prático, me senti confortável e gostei de fugir um pouco do preto. O resto foi o <em>must have</em> do inverno, legging, jaqueta de couro e botas.
 
-<em>Óculos de Sol: <strong>Chillibeans</strong>, Jaqueta: <strong>Zara</strong>, Cropped: <strong>Zara</strong>, Camisa Jeans: <strong>YouCom</strong>, Colar: <strong>YouCom</strong>, Legging preta: <strong>Topshop</strong>, Botas: <strong>Jessy, da Kipling</strong>, Anel: <strong>Pandora</strong>;</em>
+<em>Óculos de Sol: **Chillibeans**, Jaqueta: **Zara**, Cropped: **Zara**, Camisa Jeans: **YouCom**, Colar: **YouCom**, Legging preta: **Topshop**, Botas: **Jessy, da Kipling**, Anel: **Pandora**;</em>

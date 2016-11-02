@@ -20,6 +20,6 @@ Convivo com isso desde meus 15 anos e apenas esse ano comecei a aceitar. Não é
 
 Feliz Assim é o nome que eu escolhi para mostrar à você (que sofre ou não disso) e a mim mesma que são os detalhes que devemos prestar atenção e notar que a felicidade se encontra em tudo o que nos dispomos a experimentar, sentir e viver. Até mesmo nas fases mais difíceis. Além disso, são nas pessoas que encontramos mais forças pois, ao admitirmos que precisamos de ajuda, ela nunca será negada.
 
-Eu sei que meu nome <strong>Letícia </strong>significa "<strong>alegria</strong>", "<strong>felicidade</strong>". Então, venha ser feliz assim, com ou sem depressão, nunca desista de buscar nos detalhes o sentido de tudo que te faz viver!
+Eu sei que meu nome **Letícia **significa "**alegria**", "**felicidade**". Então, venha ser feliz assim, com ou sem depressão, nunca desista de buscar nos detalhes o sentido de tudo que te faz viver!
 
 Quero ajudar você. Se passa ou não por algo parecido, compartilha comigo seus problemas, pois toda ajuda será sempre bem-vinda.

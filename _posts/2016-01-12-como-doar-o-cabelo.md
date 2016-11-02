@@ -11,19 +11,19 @@ cover: uploads/2016/01/capa-como-doar-cabelo.jpg
 
 Acho importante escrever o passo a passo da doação. Como eu me impressionei com a facilidade, você também vai ver que em apenas quatro passos fará um grande ato de altruísmo.
 
-<strong>Primeiro passo:</strong>
+**Primeiro passo:**
 
 Escolha uma ONG que você gostaria de ajudar com a sua doação de cabelo e pesquise sobre ela para entender quais medidas aceitam (algumas solicitam um comprimento de, no mínimo, 10 cm, outras 20 cm). Se necessário, converse com ela e tire suas dúvidas.
 
-<strong>Segundo Passo:</strong>
+**Segundo Passo:**
 
 O cabelo pode ter química e precisa estar lavado e seco para o corte.
 
-<strong>Terceiro Passo:</strong>
+**Terceiro Passo:**
 
 Escolha um cabeleireiro de confiança e converse sobre a doação. Ela(e) precisa estar preparado, antes do corte, com os elásticos, para prender a mecha e impedir o contato com o chão. Além do plástico, para armazenar o cabelo cortado.
 
-<strong>Quarto Passo:</strong>
+**Quarto Passo:**
 
 Com as mechas em um saco plástico dentro de um envelope ou caixa, envie para o endereço da ONG escolhida.
 
