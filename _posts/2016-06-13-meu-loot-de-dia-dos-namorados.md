@@ -2,7 +2,7 @@
 layout: post
 title: MEU LOOT DE DIA DOS NAMORADOS
 tags:
-_ DIARY
+- DIARY
 cover: uploads/2016/06/capa-loot-gift.jpg
 ---
 
