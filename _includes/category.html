@@ -13,9 +13,14 @@
     {{ post.date | date: "%Y" }}
 
     {% for tag in post.tags %}
-        : <a href="{{ site.baseUrl }}/tag/#{{ tag }}">{{ tag }}</a>
+        : <a href="{{ site.baseUrl }}/category/{{ tag }}">{{ tag }}</a>
     {% endfor %}
   </p>
+  {% if post.cover != nil %}
+  <p class="blog-post-cover">
+    <img src="{{ site.baseurl }}/{{ post.cover }}" alt="{{ post.title }}"/>
+  </p>
+  {% endif %}
   <div class="blog-post-excerpt">
     {{ post.excerpt }}
   </div>

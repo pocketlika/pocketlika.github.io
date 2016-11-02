@@ -1,7 +1,7 @@
 ---
 layout: page_no_comments
-title: Beauty
-tag: BEAUTY
+title: Away
+tag: AWAY
 ---
 
 {% include category.html %}

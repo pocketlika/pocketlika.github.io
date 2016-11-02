@@ -1,7 +1,7 @@
 ---
 layout: page_no_comments
-title: Beauty
-tag: BEAUTY
+title: Home
+tag: HOME
 ---
 
 {% include category.html %}

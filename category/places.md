@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: page_no_comments
 title: Places
 tag: PLACES
 ---
