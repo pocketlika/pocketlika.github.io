@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: montserrat;
-  src: url({{ site.baseurl }}/fonts/montserrat/Montserrat-Medium.otf);
+  src: url({{ site.baseurl }}/fonts/montserrat/Montserrat-Light.otf);
   font-weight: bold;
 }
 
@@ -193,9 +193,10 @@ ul.nav a:hover {
 }
 
 .blog-post-title {
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   text-transform: uppercase;
+  margin-bottom: 20px;
 }
 .blog-post-title a {
   color: #5c5160;
@@ -205,9 +206,9 @@ ul.nav a:hover {
 }
 
 .blog-post-info {
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .blog-post-info a {
   color: #5c5160;
