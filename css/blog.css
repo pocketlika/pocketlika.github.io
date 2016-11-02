@@ -66,8 +66,11 @@ a:hover {
   margin-left: 76px;
   text-decoration: none;
 }
+.blog-logo {
+  margin-right: 180px;
+}
 .blog-social {
-  margin-right: 30px;
+  /*margin-right: 30px;*/
 }
 
 
