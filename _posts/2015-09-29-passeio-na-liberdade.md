@@ -2,12 +2,8 @@
 layout: post
 title: Passeio na Liberdade
 tags:
-- Bakery Itiriki
-- Japonês
-- Lamen Kazu
-- Liberdade
-- Marukai
-- Sushi Yassu
+- PLACES
+- HOME
 cover: uploads/2015/09/capa-passeio-liberdade.png
 ---
 

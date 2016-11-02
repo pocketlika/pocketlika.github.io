@@ -2,19 +2,7 @@
 layout: post
 title: Meu PRIMEIRO VEDA!
 tags:
-- Clinique
-- Facial
-- Hidratante
-- Olhos
-- YouCom
-- Shiseido
-- Ted Baker
-- Limpeza
-- Cravos
-- Espinhas
-- Cravo
-- Espinha
-- VEDA
+- DIARY
 cover: uploads/2016/04/capa-veda-01.jpg
 ---
 

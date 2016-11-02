@@ -2,10 +2,7 @@
 layout: post
 title: Uma Pergunta Por Dia
 tags:
-- Livro
-- Uma pergunta por dia
-- Intrínseca
-- Diario
+- DIARY
 cover: uploads/2016/01/capa-uma-pergunta-por-dia.jpg
 ---
 

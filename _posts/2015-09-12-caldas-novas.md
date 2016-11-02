@@ -2,9 +2,8 @@
 layout: post
 title: Caldas Novas
 tags:
-- Caldas Novas
-- diRoma
-- Hot Park
+- PLACES
+- AWAY
 cover: uploads/2015/09/capa-caldas-novas.jpg
 ---
 

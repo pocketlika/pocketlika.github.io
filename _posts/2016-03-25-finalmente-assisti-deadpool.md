@@ -2,11 +2,7 @@
 layout: post
 title: Finalmente assisti Deadpool
 tags:
-- Deadpool
-- Pocket Lika
-- Reação
-- Filme
-- Nerd
+- DIARY
 cover: uploads/2016/03/capa-deadpool.jpg
 ---
 

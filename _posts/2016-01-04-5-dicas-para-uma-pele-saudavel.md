@@ -2,11 +2,8 @@
 layout: post
 title: 5 Dicas Para Uma Pele Saudável
 tags:
-- Clinique
-- Creme
-- Cuidados
-- Hidratante
-- Pele
+- BEAUTY
+- SKINCARE
 cover: uploads/2016/01/capa-dicas-pele.png
 ---
 

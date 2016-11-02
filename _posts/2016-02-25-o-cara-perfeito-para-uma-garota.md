@@ -2,9 +2,7 @@
 layout: post
 title: O cara perfeito para uma garota
 tags:
-- Relacionamentos
-- Amor
-- Dor
+- DIARY
 cover: uploads/2016/02/capa-cara-perfeito.png
 ---
 

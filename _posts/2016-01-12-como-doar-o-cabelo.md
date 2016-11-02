@@ -2,10 +2,8 @@
 layout: post
 title: Como Doar O Cabelo?
 tags:
-- Doação
-- ORVAM
-- ONG
-- Doação de cabelo
+- BEAUTY
+- HAIR
 cover: uploads/2016/01/capa-como-doar-cabelo.jpg
 ---
 

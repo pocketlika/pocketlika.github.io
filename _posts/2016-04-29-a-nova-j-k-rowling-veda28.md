@@ -2,15 +2,7 @@
 layout: post
 title: 'A Nova J. K. Rowling #VEDA28'
 tags:
-- Distopia
-- Livro
-- Rocco
-- VEDA
-- Temporada dos Ossos
-- Samantha Shannon
-- Bone Season
-- Harry Potter
-- J. K. Rowling
+- DIARY
 cover: uploads/2016/04/capa-veda-28.jpg
 ---
 

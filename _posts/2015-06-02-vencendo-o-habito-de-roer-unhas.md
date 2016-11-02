@@ -2,11 +2,7 @@
 layout: post
 title: Vencendo o hábito de roer unhas
 tags:
-- esmaltes
-- risqué
-- roer
-- unhas
-- vício
+- DIARY
 cover: uploads/2015/06/capa-roer-unhas.jpg
 ---
 

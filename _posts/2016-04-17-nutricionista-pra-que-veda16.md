@@ -2,11 +2,7 @@
 layout: post
 title: 'Nutricionista, pra que? #VEDA16'
 tags:
-- Gastrite
-- VEDA
-- Lactose
-- Intolerância
-- Nutricionista
+- DIARY
 cover: uploads/2016/04/capa-veda-16.jpg
 ---
 

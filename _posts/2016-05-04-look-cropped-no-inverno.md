@@ -2,23 +2,7 @@
 layout: post
 title: 'LOOK: CROPPED NO INVERNO'
 tags:
-- YouCom
-- Look do dia
-- Cropped
-- Zara
-- Camisa
-- Jaqueta
-- Couro
-- Legging
-- Calça
-- Kipling
-- Jessica
-- Bota
-- Peluda
-- Jessy
-- Pandora
-- Chillibeans
-- 'óculos'
+- LOOKBOOK
 cover: uploads/2016/05/capa-look-inverno.jpg
 ---
 

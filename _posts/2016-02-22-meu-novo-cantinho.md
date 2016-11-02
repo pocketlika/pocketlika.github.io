@@ -2,10 +2,7 @@
 layout: post
 title: Meu novo cantinho
 tags:
-- YouTube
-- Cantinho
-- Decoração
-- Espaço
+- DIARY
 cover: uploads/2016/02/capa-meu-cantinho.png
 ---
 

@@ -2,13 +2,7 @@
 layout: post
 title: Uma Segunda-feira diferente
 tags:
-- Fotografia
-- Segunda
-- Paulista
-- Sentimentos
-- Depressão
-- Coragem
-- Sonho
+- DIARY
 cover: uploads/2016/04/capa-segunda-diferente.png
 ---
 

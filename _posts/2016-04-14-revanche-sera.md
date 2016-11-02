@@ -2,12 +2,7 @@
 layout: post
 title: REVANCHE!! SERá??
 tags:
-- Jogo
-- Tabuleiro
-- VEDA
-- Lords of Waterdeep
-- Board
-- Game
+- DIARY
 cover: uploads/2016/04/capa-veda-13.jpg
 ---
 

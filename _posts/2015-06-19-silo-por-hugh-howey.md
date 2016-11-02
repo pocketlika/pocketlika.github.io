@@ -2,10 +2,7 @@
 layout: post
 title: Silo, por Hugh Howey
 tags:
-- Distopia
-- Hugh Howey
-- Livro
-- Silo
+- DIARY
 cover: uploads/2015/06/capa-silo.jpg
 ---
 

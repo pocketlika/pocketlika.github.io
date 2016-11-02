@@ -2,15 +2,7 @@
 layout: post
 title: Mudei! Pronto, assumi.
 tags:
-- Nerd
-- Pensamentos
-- Sobre mim
-- Maquiagem
-- geek
-- jogos
-- games
-- quadrinhos
-- julgamento
+- DIARY
 cover: uploads/2016/04/capa-mudei.png
 ---
 

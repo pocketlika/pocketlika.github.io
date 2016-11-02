@@ -2,9 +2,7 @@
 layout: post
 title: 'Porquinho Voador #VEDA2'
 tags:
-- Decoração
-- Pug
-- Reforma
+- DIARY
 cover: uploads/2016/04/capa-veda-02.jpg
 ---
 

@@ -2,11 +2,7 @@
 layout: post
 title: NÃO TÃO "FELIZ ASSIM"
 tags:
-- Depressão
-- tristeza
-- realidade
-- amigos
-- cansaço
+- DIARY
 cover: uploads/2016/06/capa-nao-feliz-assim.jpg
 ---
 

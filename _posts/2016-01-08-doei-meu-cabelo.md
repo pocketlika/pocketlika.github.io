@@ -2,13 +2,7 @@
 layout: post
 title: Doei Meu Cabelo!
 tags:
-- Cabelo
-- Doação
-- Escalpelada
-- ORVAM
-- ONG
-- Corte
-- Projeto
+- DIARY
 cover: uploads/2016/01/capa-doei-meu-cabelo.png
 ---
 

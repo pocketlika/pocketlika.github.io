@@ -2,12 +2,8 @@
 layout: post
 title: Meu hidratante facial favorito da Clinique
 tags:
-- Clinique
-- Extended
-- Facial
-- Hidratação
-- Relief
-- Thrist
+- BEAUTY
+- SKINCARE
 cover: uploads/2015/07/capa-hidratante-facial.jpg
 ---
 

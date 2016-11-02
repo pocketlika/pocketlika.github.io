@@ -2,10 +2,7 @@
 layout: post
 title: Assisti Batman vs Superman!
 tags:
-- Batman
-- Superman
-- Ben Affleck
-- DC
+- DIARY
 cover: uploads/2016/03/capa-batman-v-superman.jpg
 ---
 

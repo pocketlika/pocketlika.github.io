@@ -2,8 +2,8 @@
 layout: post
 title: 'The Body Shop: Bálsamo Spa Africa'
 tags:
-- Hidratante
-- The Body Shop
+- BEAUTY
+- SKINCARE
 cover: uploads/2015/09/capa-the-body-shop.jpg
 ---
 

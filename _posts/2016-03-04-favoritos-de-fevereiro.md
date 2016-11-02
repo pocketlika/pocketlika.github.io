@@ -2,20 +2,7 @@
 layout: post
 title: Favoritos de Fevereiro
 tags:
-- Esfoliante
-- Hidratante
-- Cabelo
-- Lush
-- Boticário
-- Eudora
-- Soul
-- Reparador
-- Pontas
-- Corpo
-- Marquiagem
-- Shiseido
-- Pó
-- Base
+- DIARY
 cover: uploads/2016/03/capa-favoritos-fevereiro.jpg
 ---
 

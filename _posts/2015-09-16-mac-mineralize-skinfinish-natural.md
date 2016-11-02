@@ -2,9 +2,8 @@
 layout: post
 title: 'MAC: Mineralize Skinfinish Natural'
 tags:
-- Africa
-- Hidratante
-- The Body Shop
+- BEAUTY
+- SKINCARE
 cover: uploads/2015/09/capa-mac-mineralize.png
 ---
 

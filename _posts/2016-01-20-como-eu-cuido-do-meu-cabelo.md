@@ -2,19 +2,8 @@
 layout: post
 title: Como Eu Cuido Do Meu Cabelo
 tags:
-- Hidratação
-- Mac
-- Cabelo
-- Assuie
-- Shampoo
-- Condicionador
-- Cuidado
-- Inter Beauty
-- 'óleo'
-- Ampola
-- Cauterização
-- Pantene
-- Leave in
+- BEAUTY
+- HAIR
 cover: uploads/2016/01/capa-cuido-do-cabelo.png
 ---
 

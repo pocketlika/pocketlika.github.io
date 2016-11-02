@@ -2,11 +2,7 @@
 layout: post
 title: 'Como Deixar A Vida Mais Colorida #VEDA09'
 tags:
-- Academia
-- Pilates
-- Yoga
-- Vida
-- Colorida
+- DIARY
 cover: uploads/2016/04/capa-veda-09.jpg
 ---
 

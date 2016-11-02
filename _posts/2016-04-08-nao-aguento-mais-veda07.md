@@ -2,8 +2,7 @@
 layout: post
 title: 'Não Aguento Mais #VEDA07'
 tags:
-- VEDA
-- Profissão
+- DIARY
 cover: uploads/2016/04/capa-veda-07.jpg
 ---
 

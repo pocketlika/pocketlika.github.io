@@ -2,12 +2,7 @@
 layout: post
 title: Minhas revistas favoritas
 tags:
-- Marie Claire
-- Glamour
-- Vogue
-- Cosmopolitan
-- Vida Simples
-- Revistas
+- DIARY
 cover: uploads/2015/12/capa-revistas-favoritas.png
 ---
 

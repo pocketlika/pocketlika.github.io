@@ -2,9 +2,7 @@
 layout: post
 title: 'Imaturidade no Namoro #VEDA08'
 tags:
-- VEDA
-- Imaturidade
-- Namoro
+- DIARY
 cover: uploads/2016/04/capa-veda-08.jpg
 ---
 

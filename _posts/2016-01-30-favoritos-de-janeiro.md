@@ -2,17 +2,7 @@
 layout: post
 title: Favoritos de Janeiro
 tags:
-- The Body Shop
-- Ampola
-- Pantene
-- Karma Kream
-- Lush
-- Augusto Cury
-- Holocausto Nunca Mais
-- Colecionador de Lágrimas
-- Boticário
-- Star Wars
-- Rey
+- DIARY
 cover: uploads/2016/01/capa-favoritos-janeiro.png
 ---
 

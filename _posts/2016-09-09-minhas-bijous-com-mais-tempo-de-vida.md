@@ -2,11 +2,7 @@
 layout: post
 title: MINHAS 'BIJOUS' COM MAIS TEMPO DE VIDA
 tags:
-- giz
-- branco
-- bijouteria
-- escurecimento
-- proteger
+- DIARY
 cover: uploads/2016/09/capa-bijous.jpg
 excerpt: Eu tenho muitas 'bijous' diferentes, desde as mais fofas, até as mais radicais. O grande problema delas é que estragam facilmente. Já perdi várias porque escureceram por causa de diversos fatores que já conhecemos.
 ---

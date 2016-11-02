@@ -2,11 +2,7 @@
 layout: post
 title: Conheça a ORVAM e as mulheres guerreiras
 tags:
-- ORVAM
-- ONG
-- Doação de cabelo
-- Escalpelamento
-- Ribeirinhos
+- DIARY
 cover: uploads/2016/01/capa-conheca-orvam.jpg
 ---
 

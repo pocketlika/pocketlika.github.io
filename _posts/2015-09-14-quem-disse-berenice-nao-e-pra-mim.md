@@ -2,9 +2,8 @@
 layout: post
 title: Quem disse, Berenice? [não] é pra mim
 tags:
-- Berenice
-- Cereja Bere
-- Lápis delineador
+- BEAUTY
+- MAKEUP
 cover: uploads/2015/09/capa-quem-disse-berenice.png
 ---
 

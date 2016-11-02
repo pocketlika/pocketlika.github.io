@@ -2,15 +2,7 @@
 layout: post
 title: MEU LOOT DE DIA DOS NAMORADOS
 tags:
-- Amor
-- Nerd
-- jogos
-- Loot
-- Gift
-- Namorados
-- presente
-- crianças
-- comemoração
+_ DIARY
 cover: uploads/2016/06/capa-loot-gift.jpg
 ---
 

@@ -2,9 +2,7 @@
 layout: post
 title: Colonizadores de Catan
 tags:
-- Catan
-- Jogo
-- Tabuleiro
+- DIARY
 cover: uploads/2015/11/capa-catan.jpg
 ---
 

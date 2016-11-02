@@ -2,10 +2,7 @@
 layout: post
 title: 'Despedidas No Capitão #VEDA20'
 tags:
-- VEDA
-- Capitão Barley
-- Cervejas Especiais
-- Holanda
+- DIARY
 cover: uploads/2016/04/capa-veda-20.jpg
 ---
 

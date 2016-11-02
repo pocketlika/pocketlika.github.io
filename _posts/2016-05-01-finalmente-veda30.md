@@ -2,8 +2,7 @@
 layout: post
 title: 'FINALMENTE! #VEDA30'
 tags:
-- VEDA
-- Outback
+- DIARY
 cover: uploads/2016/05/capa-veda-30.jpg
 ---
 

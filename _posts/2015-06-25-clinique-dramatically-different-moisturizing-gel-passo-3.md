@@ -2,11 +2,8 @@
 layout: post
 title: 'Clinique: Dramatically Different Moisturizing Gel - Passo 3'
 tags:
-- Clinique
-- Creme
-- Faciak
-- Gel
-- Hidratante
+- BEAUTY
+- SKINCARE
 cover: uploads/2015/06/capa-clinique-dramatically.jpg
 ---
 

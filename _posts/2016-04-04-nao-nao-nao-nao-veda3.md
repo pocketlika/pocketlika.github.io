@@ -2,9 +2,7 @@
 layout: post
 title: 'NãO NãO NãO NãO #VEDA3'
 tags:
-- VEDA
-- TWD
-- The Walking Dead
+- DIARY
 cover: uploads/2016/04/capa-veda-03.jpg
 ---
 

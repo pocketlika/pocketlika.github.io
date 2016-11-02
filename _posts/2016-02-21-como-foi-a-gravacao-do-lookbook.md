@@ -2,11 +2,7 @@
 layout: post
 title: Como Foi A Gravação do LookBook
 tags:
-- Natal
-- Caraguá
-- Lookbook
-- YouCom
-- Praia
+- DIARY
 cover: uploads/2016/02/capa-look-book.png
 ---
 

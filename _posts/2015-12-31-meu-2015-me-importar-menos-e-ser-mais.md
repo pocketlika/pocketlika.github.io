@@ -2,8 +2,7 @@
 layout: post
 title: 'Meu 2015: Me importar menos e ser mais'
 tags:
-- Feliz Ano Novo
-- '2015'
+- DIARY
 cover: uploads/2015/12/capa-meu-2015.png
 ---
 

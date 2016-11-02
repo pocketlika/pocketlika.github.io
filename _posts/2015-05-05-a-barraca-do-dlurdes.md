@@ -2,11 +2,8 @@
 layout: post
 title: A Barraca do D'Lurdes
 tags:
-- A Barraca
-- açaí
-- Brasília
-- restaurante
-- tapioca
+- PLACES
+- AWAY
 cover: uploads/2015/05/capa-barraca-dlurdes.jpg
 ---
 

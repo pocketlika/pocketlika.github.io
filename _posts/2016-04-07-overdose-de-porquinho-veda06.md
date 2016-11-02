@@ -2,9 +2,7 @@
 layout: post
 title: 'Overdose de Porquinho #VEDA06'
 tags:
-- VEDA
-- Pug
-- Spock
+- DIARY
 cover: uploads/2016/04/capa-veda-06.jpg
 ---
 

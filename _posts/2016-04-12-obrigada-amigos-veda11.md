@@ -2,7 +2,7 @@
 layout: post
 title: 'Obrigada Amigos #VEDA11'
 tags:
-- VEDA
+- DIARY
 cover: uploads/2016/04/capa-veda-11.jpg
 ---
 

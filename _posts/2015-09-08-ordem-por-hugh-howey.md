@@ -2,9 +2,7 @@
 layout: post
 title: Ordem, por Hugh Howey
 tags:
-- Hugh Howey
-- Ordem
-- Silo
+- DIARY
 cover: uploads/2015/09/capa-ordem.jpg
 ---
 

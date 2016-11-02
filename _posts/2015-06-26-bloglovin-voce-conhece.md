@@ -2,9 +2,7 @@
 layout: post
 title: Bloglovin' | Você conhece?
 tags:
-- App
-- Blog
-- Bloglovin
+- DIARY
 cover: uploads/2015/06/capa-bloglovin.jpg
 ---
 

@@ -2,9 +2,8 @@
 layout: post
 title: Restaurante Coco Bambu
 tags:
-- restaurante
-- Lagosta
-- Coco Bambu
+- PLACES
+- HOME
 cover: uploads/2015/11/capa-coco-bambu.jpg
 ---
 

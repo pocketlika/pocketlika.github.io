@@ -2,12 +2,7 @@
 layout: post
 title: MAIS UM SONHO REALIZADO
 tags:
-- Sonho
-- Rinoplastia
-- Cirurgia
-- Plástica
-- Nariz
-- Médico
+- DIARY
 cover: uploads/2016/06/capa-sonho-realizado.jpg
 ---
 

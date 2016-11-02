@@ -2,10 +2,8 @@
 layout: post
 title: Catarina Fashion Outlet
 tags:
-- Catarina
-- Fashion
-- Outlet
-- Roupas
+- PLACES
+- HOME
 cover: uploads/2015/10/capa-catarina-fashion.jpg
 ---
 

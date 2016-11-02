@@ -2,10 +2,7 @@
 layout: post
 title: 'Como Perder A Namorada Em 5 Partidas #VEDA10'
 tags:
-- MAGIC
-- MTG
-- Café
-- Suplicy
+- DIARY
 cover: uploads/2016/04/capa-veda-10.jpg
 ---
 

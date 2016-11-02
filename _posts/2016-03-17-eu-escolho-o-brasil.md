@@ -2,11 +2,7 @@
 layout: post
 title: Eu escolho o Brasil
 tags:
-- Brasil
-- Corrupção
-- Lula
-- Dilma
-- Lava Jato
+- DIARY
 cover: uploads/2016/03/capa-escolho-brasil.png
 ---
 

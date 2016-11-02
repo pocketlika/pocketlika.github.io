@@ -2,19 +2,7 @@
 layout: post
 title: 'SOCORRO!! #VEDA29'
 tags:
-- Decoração
-- VEDA
-- Cinema
-- Quarto
-- Guerra Civil
-- Decor
-- Msculino
-- Shopping
-- Lar Center
-- Center Norte
-- Homem de Ferro
-- Iron Man
-- Capitão América
+- DIARY
 cover: uploads/2016/04/capa-veda-29.jpg
 ---
 

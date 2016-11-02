@@ -2,9 +2,8 @@
 layout: post
 title: The Gourmet Tea
 tags:
-- Ansiedade
-- Chá
-- The Gourmet Tea
+- PLACES
+- HOME
 cover: uploads/2015/07/capa-gourmet-tea.jpg
 ---
 

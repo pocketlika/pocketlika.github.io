@@ -2,25 +2,8 @@
 layout: post
 title: MEUS ESSENCIAIS DE INVERNO PARA A PELE
 tags:
-- Clinique
-- Creme
-- Cuidados
-- Esfoliante
-- Hidratante
-- Kiehls
-- Pele
-- 'óleo'
-- Karma Kream
-- Helping Hands
-- Bubblegum
-- Lush
-- Frio
-- Inverno
-- essemciais
-- seca
-- oleosa
-- Midnight Recovery
-- Enchanted eyes
+- BEAUTY
+- SKINCARE
 cover: uploads/2016/06/capa-essenciais-inverno.jpg
 ---
 

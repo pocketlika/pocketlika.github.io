@@ -2,9 +2,7 @@
 layout: post
 title: 'Um Dia Muito Bom #VEDA22'
 tags:
-- VEDA
-- Starbucks
-- Pathfinder
+- DIARY
 cover: uploads/2016/04/capa-veda-22.jpg
 ---
 

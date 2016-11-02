@@ -2,12 +2,7 @@
 layout: post
 title: Minha blogueira/vlogueira favorita
 tags:
-- Blog
-- Girl Online
-- More Zoella
-- Vlog
-- Zoe Sugg
-- Zoella
+- DIARY
 cover: uploads/2015/06/capa-zoella.jpg
 ---
 

@@ -2,9 +2,7 @@
 layout: post
 title: Se preocupe menos, viva mais!
 tags:
-- preocupação
-- Zoe
-- Zoella
+- DIARY
 cover: uploads/2015/05/capa-se-preocupe-menos.jpg
 ---
 

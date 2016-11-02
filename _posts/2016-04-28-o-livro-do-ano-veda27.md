@@ -2,11 +2,7 @@
 layout: post
 title: 'O LIVRO DO ANO!! #VEDA27'
 tags:
-- Livro
-- Rocco
-- VEDA
-- Temporada dos Ossos
-- Samantha Shannon
+- DIARY
 cover: uploads/2016/04/capa-veda-27.jpg
 ---
 

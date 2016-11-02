@@ -2,9 +2,7 @@
 layout: post
 title: Um medo de cada vez
 tags:
-- Ansiedade
-- Gastrite
-- Medo
+- DIARY
 cover: uploads/2015/06/capa-um-medo-de-cada-vez.jpg
 ---
 

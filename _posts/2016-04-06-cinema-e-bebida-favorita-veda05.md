@@ -2,13 +2,7 @@
 layout: post
 title: 'Cinema e Bebida Favorita #VEDA05'
 tags:
-- Starbucks
-- Convergente
-- Cinema
-- Chai Latte
-- LIvraria Cultura
-- Board Game
-- Jogo de tabuleiro
+- DIARY
 cover: uploads/2016/04/capa-veda-05.jpg
 ---
 

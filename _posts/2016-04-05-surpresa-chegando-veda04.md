@@ -2,10 +2,7 @@
 layout: post
 title: 'Surpresa Chegando #VEDA04'
 tags:
-- VEDA
-- Surpresa
-- Sono
-- Preguiça
+- DIARY
 cover: uploads/2016/04/capa-veda-04.jpg
 ---
 

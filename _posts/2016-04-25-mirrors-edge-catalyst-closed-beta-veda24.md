@@ -2,11 +2,7 @@
 layout: post
 title: 'Mirrors Edge Catalyst CLOSED BETA #VEDA24'
 tags:
-- VEDA
-- Mirrors Edge
-- Catalyst
-- Closed Beta
-- PS4
+- DIARY
 cover: uploads/2016/04/capa-veda-24.jpg
 ---
 

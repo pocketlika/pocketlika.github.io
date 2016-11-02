@@ -2,10 +2,7 @@
 layout: post
 title: 'Porquinho Parkour #VEDA25'
 tags:
-- Pug
-- Spock
-- Parkour
-- Mirros Edge
+- DIARY
 cover: uploads/2016/04/capa-veda-25.jpg
 ---
 

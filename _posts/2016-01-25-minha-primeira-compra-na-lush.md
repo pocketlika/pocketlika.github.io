@@ -2,20 +2,8 @@
 layout: post
 title: Minha primeira compra na LUSH
 tags:
-- Creme
-- Esfoliante
-- Hidratante
-- Pele
-- Karma Kream
-- Helping Hands
-- Bubblegum
-- Lush
-- Testes
-- Animais
-- Labial
-- Secas
-- Londres
-- Loja Online
+- BEAUTY
+- SKINCARE
 cover: uploads/2016/01/capa-lush.png
 ---
 

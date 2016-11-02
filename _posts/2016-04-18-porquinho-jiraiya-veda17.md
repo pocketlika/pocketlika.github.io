@@ -2,8 +2,7 @@
 layout: post
 title: 'Porquinho Jiraiya #VEDA17'
 tags:
-- VEDA
-- Pug
+- DIARY
 cover: uploads/2016/04/capa-veda-17.jpg
 ---
 

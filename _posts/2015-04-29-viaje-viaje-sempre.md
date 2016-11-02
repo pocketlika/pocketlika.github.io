@@ -2,9 +2,8 @@
 layout: post
 title: Viaje, viaje sempre!
 tags:
-- autoconhecimento
-- Brasília
-- viagem
+- PLACES
+- AWAY
 cover: uploads/2015/04/capa-viaje-sempre.jpg
 ---
 

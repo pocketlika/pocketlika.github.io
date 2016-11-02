@@ -2,16 +2,7 @@
 layout: post
 title: 'Top 5 Séries Favoritas Finalizadas #VEDA15'
 tags:
-- VEDA
-- HIMYM
-- How I Meet Your Mother
-- Lost
-- Friends
-- Breaking Bad
-- Gossip Girl
-- Finalizadas
-- Favoritas
-- Séries
+- DIARY
 cover: uploads/2016/04/capa-veda-15.jpg
 ---
 

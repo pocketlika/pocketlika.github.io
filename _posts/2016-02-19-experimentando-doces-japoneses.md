@@ -2,13 +2,8 @@
 layout: post
 title: Experimentando Doces Japoneses
 tags:
-- Liberdade
-- Marukai
-- Japão
-- Doce
-- Japoneses
-- Experimentando
-- Provando
+- PLACES
+- HOME
 cover: uploads/2016/02/capa-doces-japoneses.jpg
 ---
 

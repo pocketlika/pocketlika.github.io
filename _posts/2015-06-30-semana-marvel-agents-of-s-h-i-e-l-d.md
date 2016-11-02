@@ -2,9 +2,7 @@
 layout: post
 title: 'Semana Marvel: Agents of S.H.I.E.L.D'
 tags:
-- Agents of Shield
-- Netflix
-- Série
+- DIARY
 cover: uploads/2015/06/capa-shield.jpg
 ---
 

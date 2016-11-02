@@ -2,12 +2,7 @@
 layout: post
 title: Trilogia Jogos Vorazes, por Suzanne Collins
 tags:
-- A Esperança
-- Em Chamas
-- Jogos Vorazes
-- Rocco
-- Suzanne Collins
-- Trilogia
+- DIARY
 cover: uploads/2015/06/capa-trilogia-jogos-vorazes.jpg
 ---
 

@@ -2,15 +2,8 @@
 layout: post
 title: 10 motivos para usar filtro solar
 tags:
-- Adcos
-- Antioxidante
-- Comedogênio
-- Filtro Solar
-- Hidratante
-- Oil free
-- Parabenos
-- UVA
-- UVB
+- BEAUTY
+- SKINCARE
 cover: uploads/2015/07/capa-filtro-solar.jpg
 ---
 

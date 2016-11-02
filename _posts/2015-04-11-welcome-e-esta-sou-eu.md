@@ -2,7 +2,7 @@
 layout: post
 title: Welcome e esta sou eu!
 tags:
-- LIFE
+- DIARY
 cover: uploads/2015/04/capa-welcome.jpg
 ---
 

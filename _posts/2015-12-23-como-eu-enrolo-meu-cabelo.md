@@ -2,9 +2,8 @@
 layout: post
 title: Como eu enrolo meu cabelo
 tags:
-- Babyliss
-- Cabelo
-- Enrolar
+- BEAUTY
+- HAIR
 cover: uploads/2015/12/capa-enrolar-cabelo.jpg
 ---
 

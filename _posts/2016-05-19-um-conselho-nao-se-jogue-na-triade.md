@@ -2,15 +2,7 @@
 layout: post
 title: UM CONSELHO, NãO SE JOGUE NA TRíADE
 tags:
-- autoconhecimento
-- Depressão
-- tríade
-- Enem
-- Faculdade
-- Universidade
-- Cursinho
-- escolhas
-- autor
+- DIARY
 cover: uploads/2016/05/capa-conselho.jpg
 ---
 
