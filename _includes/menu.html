@@ -13,10 +13,10 @@
 <nav class="blog-nav">
   <div class="col-sm-8">
     <ul class="nav nav-justified">
-      <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/beauty">BEAUTY</a></li>
-      <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/diary">DIARY</a></li>
-      <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/lookbook">LOOKBOOK</a></li>
-      <li><a class="blog-nav-item" href="{{ site.baseUrl }}/category/places">PLACES</a></li>
+      <li {% if page.url contains 'beauty' %}class="active"{% endif %}><a class="blog-nav-item" href="{{ site.baseUrl }}/category/beauty">BEAUTY</a></li>
+      <li {% if page.url contains 'diary' %}class="active"{% endif %}><a class="blog-nav-item" href="{{ site.baseUrl }}/category/diary">DIARY</a></li>
+      <li {% if page.url contains 'lookbook' %}class="active"{% endif %}><a class="blog-nav-item" href="{{ site.baseUrl }}/category/lookbook">LOOKBOOK</a></li>
+      <li {% if page.url contains 'places' %}class="active"{% endif %}><a class="blog-nav-item" href="{{ site.baseUrl }}/category/places">PLACES</a></li>
     </ul>
   </div>
   <div class="col-sm-1">

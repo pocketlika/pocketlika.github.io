@@ -80,7 +80,8 @@ a:hover {
 
 ul.nav a:hover {
  background-color: #ffdccd !important;
- color: #fff !important;
+ color: #5c5160 !important;
+ font-weight: bolder;
 }
 
 .glyphicon {
@@ -96,18 +97,18 @@ ul.nav a:hover {
   background-color: #ffdccd;
 }
 
+/* Active state gets a caret at the bottom */
+.blog-nav .active {
+  font-weight: bold;
+}
+
 /* Nav links */
 .blog-nav-item {
   display: inline-block;
   text-align: center;
   color: #5c5160;
   font-size: 18px;
-  font-weight: bold;
-}
-
-/* Active state gets a caret at the bottom */
-.blog-nav .active {
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 
 .blog-nav-input {
