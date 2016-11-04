@@ -1,7 +1,7 @@
 ---
 layout: page_no_comments
 title: Skincare
-tag: SKINCARE
+tag: skincare
 ---
 
 {% include category.html %}

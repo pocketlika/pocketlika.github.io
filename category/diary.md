@@ -1,7 +1,7 @@
 ---
 layout: page_no_comments
 title: Diary
-tag: DIARY
+tag: diary
 ---
 
 {% include category.html %}

@@ -1,7 +1,7 @@
 ---
 layout: page_no_comments
 title: Hair
-tag: HAIR
+tag: hair
 ---
 
 {% include category.html %}

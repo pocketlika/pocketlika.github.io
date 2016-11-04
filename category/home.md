@@ -1,7 +1,7 @@
 ---
 layout: page_no_comments
 title: Home
-tag: HOME
+tag: home
 ---
 
 {% include category.html %}

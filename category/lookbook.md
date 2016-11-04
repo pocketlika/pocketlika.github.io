@@ -1,7 +1,7 @@
 ---
 layout: page_no_comments
 title: Lookbook
-tag: LOOKBOOK
+tag: lookbook
 ---
 
 {% include category.html %}

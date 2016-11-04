@@ -1,7 +1,7 @@
 ---
 layout: page_no_comments
 title: Makeup
-tag: MAKEUP
+tag: makeup
 ---
 
 {% include category.html %}
