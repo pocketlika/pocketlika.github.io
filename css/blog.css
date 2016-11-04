@@ -147,8 +147,11 @@ ul.nav a:hover {
 .sidebar-module {
   padding: 15px;
   margin: 0 -15px 15px;
-  /*border: 1px solid blue;*/
 }
+.sidebar-module-offset {
+  margin-top: -30px;
+}
+
 .sidebar-module-title {
   border-bottom: 2px solid #b5ddda;
   text-align: center;
