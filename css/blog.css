@@ -65,13 +65,22 @@ a:hover {
   margin-top: 123px;
   margin-left: 76px;
   text-decoration: none;
+  color: #5c5160;
 }
+.blog-title a {
+  color: #5c5160;
+}
+.blog-title a:hover {
+  color: #b5ddda;
+}
+
 .blog-logo {
-  margin-right: 180px;
+  margin-right: 200px;
 }
 .blog-social {
-  /*margin-right: 30px;*/
+  margin-right: 28px;
 }
+
 
 
 /*
@@ -138,6 +147,7 @@ ul.nav a:hover {
 .sidebar-module {
   padding: 15px;
   margin: 0 -15px 15px;
+  /*border: 1px solid blue;*/
 }
 .sidebar-module-title {
   border-bottom: 2px solid #b5ddda;
@@ -321,6 +331,7 @@ ul.nav a:hover {
 .footer-copyright {
   font-size: 14px;
 }
+
 .footer-link a {
 
 }
@@ -329,6 +340,20 @@ ul.nav a:hover {
   font-weight: bold;
 }
 
+.blog-social-footer {
+  margin-left: 14px;
+  margin-right: 14px;
+}
+.footer-social a {
+  color: #5c5160;
+}
+.footer-social a:hover {
+  color: #fff;
+}
+
+.footer-signature {
+  margin-bottom: 10px;
+}
 
 /*
  * Search form
