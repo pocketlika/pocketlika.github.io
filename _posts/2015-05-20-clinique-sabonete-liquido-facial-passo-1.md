@@ -2,8 +2,8 @@
 layout: post
 title: 'Clinique: Sabonete líquido facial - Passo 1'
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2015/05/capa-clinique-sabonete-liquido.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Minha blogueira/vlogueira favorita
 tags:
-- DIARY
+- diary
 cover: uploads/2015/06/capa-zoella.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mudança e Exercícios #VEDA14'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-14.jpg
 ---
 

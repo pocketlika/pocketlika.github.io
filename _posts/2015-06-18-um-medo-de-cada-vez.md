@@ -2,7 +2,7 @@
 layout: post
 title: Um medo de cada vez
 tags:
-- DIARY
+- diary
 cover: uploads/2015/06/capa-um-medo-de-cada-vez.jpg
 ---
 

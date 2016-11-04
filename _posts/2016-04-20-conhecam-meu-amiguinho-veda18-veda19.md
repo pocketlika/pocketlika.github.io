@@ -2,7 +2,7 @@
 layout: post
 title: 'Conheçam Meu Amiguinho #VEDA18 & #VEDA19'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-18-19.jpg
 ---
 

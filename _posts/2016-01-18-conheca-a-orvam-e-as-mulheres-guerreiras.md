@@ -2,7 +2,7 @@
 layout: post
 title: Conheça a ORVAM e as mulheres guerreiras
 tags:
-- DIARY
+- diary
 cover: uploads/2016/01/capa-conheca-orvam.jpg
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: Como Doar O Cabelo?
 tags:
-- BEAUTY
-- HAIR
+- beauty
+- hair
 cover: uploads/2016/01/capa-como-doar-cabelo.jpg
 ---
 

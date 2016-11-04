@@ -2,8 +2,8 @@
 layout: post
 title: Como eu enrolo meu cabelo
 tags:
-- BEAUTY
-- HAIR
+- beauty
+- hair
 cover: uploads/2015/12/capa-enrolar-cabelo.jpg
 ---
 

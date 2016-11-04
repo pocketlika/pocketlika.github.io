@@ -2,8 +2,8 @@
 layout: post
 title: Creme hidratante da Kiehl's para a região dos olhos com abacate
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2015/07/capa-creme-hidratante-kiehls.jpg
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: Lá e de volta outra vez!
 tags:
-- PLACES
-- AWAY
+- places
+- away
 cover: uploads/2015/05/capa-la-e-de-volta-outra-vez.jpg
 ---
 

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 'LOOK: KIMONO JACGUARD'
 tags:
-- LOOKBOOK
+- lookbook
 cover: uploads/2016/06/capa-kimono.jpg
 excerpt: Nunca tinha usado kimono nos dias mais frios. Quando vi esse na loja, foi amor a primeira vista. Na hora, uma necessidade muito grande de comprá-lo surgiu para montar o mais rápido possível um look legal para compartilhar no blog.
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: REVANCHE!! SERá??
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-13.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Trilogia Jogos Vorazes, por Suzanne Collins
 tags:
-- DIARY
+- diary
 cover: uploads/2015/06/capa-trilogia-jogos-vorazes.jpg
 ---
 

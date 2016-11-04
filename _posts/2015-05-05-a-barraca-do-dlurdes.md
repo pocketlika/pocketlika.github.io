@@ -2,8 +2,8 @@
 layout: post
 title: A Barraca do D'Lurdes
 tags:
-- PLACES
-- AWAY
+- places
+- away
 cover: uploads/2015/05/capa-barraca-dlurdes.jpg
 ---
 

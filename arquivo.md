@@ -17,7 +17,7 @@ title: Archive
     {{ post.date | date: "%Y" }}
 
     {% for tag in post.tags %}
-        : <a href="{{ site.baseUrl }}/category/{{ tag }}">{{ tag }}</a>
+        : <a class="blog-post-tag" href="{{ site.baseUrl }}/category/{{ tag }}">{{ tag }}</a>
     {% endfor %}
   </p>
   <div class="blog-post-excerpt">

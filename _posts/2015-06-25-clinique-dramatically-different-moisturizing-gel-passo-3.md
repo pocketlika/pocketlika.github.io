@@ -2,8 +2,8 @@
 layout: post
 title: 'Clinique: Dramatically Different Moisturizing Gel - Passo 3'
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2015/06/capa-clinique-dramatically.jpg
 ---
 

@@ -231,6 +231,10 @@ ul.nav a:hover {
   text-decoration: underline;
 }
 
+.blog-post-tag {
+  text-transform: uppercase;
+}
+
 .blog-post-cover img {
   width: 700px;
   height: auto;

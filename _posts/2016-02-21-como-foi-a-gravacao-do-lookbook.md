@@ -2,7 +2,7 @@
 layout: post
 title: Como Foi A Gravação do LookBook
 tags:
-- DIARY
+- diary
 cover: uploads/2016/02/capa-look-book.png
 ---
 

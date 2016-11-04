@@ -2,7 +2,7 @@
 layout: post
 title: 'NãO NãO NãO NãO #VEDA3'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-03.jpg
 ---
 

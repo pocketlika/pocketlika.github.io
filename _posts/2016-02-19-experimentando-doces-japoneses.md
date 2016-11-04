@@ -2,8 +2,8 @@
 layout: post
 title: Experimentando Doces Japoneses
 tags:
-- PLACES
-- HOME
+- places
+- home
 cover: uploads/2016/02/capa-doces-japoneses.jpg
 ---
 

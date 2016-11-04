@@ -2,7 +2,7 @@
 layout: post
 title: 'Porquinho Voador #VEDA2'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-02.jpg
 ---
 

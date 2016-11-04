@@ -2,7 +2,7 @@
 layout: post
 title: Assisti Batman vs Superman!
 tags:
-- DIARY
+- diary
 cover: uploads/2016/03/capa-batman-v-superman.jpg
 ---
 

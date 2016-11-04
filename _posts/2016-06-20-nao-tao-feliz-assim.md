@@ -2,7 +2,7 @@
 layout: post
 title: NÃO TÃO "FELIZ ASSIM"
 tags:
-- DIARY
+- diary
 cover: uploads/2016/06/capa-nao-feliz-assim.jpg
 ---
 

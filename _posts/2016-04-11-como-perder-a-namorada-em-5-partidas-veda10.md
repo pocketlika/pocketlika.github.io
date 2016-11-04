@@ -2,7 +2,7 @@
 layout: post
 title: 'Como Perder A Namorada Em 5 Partidas #VEDA10'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-10.jpg
 ---
 

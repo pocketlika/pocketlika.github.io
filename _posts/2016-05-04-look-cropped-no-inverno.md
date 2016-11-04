@@ -2,7 +2,7 @@
 layout: post
 title: 'LOOK: CROPPED NO INVERNO'
 tags:
-- LOOKBOOK
+- lookbook
 cover: uploads/2016/05/capa-look-inverno.jpg
 ---
 

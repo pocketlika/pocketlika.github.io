@@ -2,7 +2,7 @@
 layout: post
 title: O cara perfeito para uma garota
 tags:
-- DIARY
+- diary
 cover: uploads/2016/02/capa-cara-perfeito.png
 ---
 

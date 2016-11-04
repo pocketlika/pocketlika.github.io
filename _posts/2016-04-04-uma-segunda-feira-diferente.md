@@ -2,7 +2,7 @@
 layout: post
 title: Uma Segunda-feira diferente
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-segunda-diferente.png
 ---
 

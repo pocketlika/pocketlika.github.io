@@ -2,7 +2,7 @@
 layout: post
 title: 'Overdose de Porquinho #VEDA06'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-06.jpg
 ---
 

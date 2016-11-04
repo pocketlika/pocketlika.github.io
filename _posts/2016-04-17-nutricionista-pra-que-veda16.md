@@ -2,7 +2,7 @@
 layout: post
 title: 'Nutricionista, pra que? #VEDA16'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-16.jpg
 ---
 

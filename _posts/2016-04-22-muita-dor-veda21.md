@@ -2,7 +2,7 @@
 layout: post
 title: 'MUITA DOR!! #VEDA21'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-21.jpg
 ---
 

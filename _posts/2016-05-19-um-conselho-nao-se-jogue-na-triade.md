@@ -2,7 +2,7 @@
 layout: post
 title: UM CONSELHO, NãO SE JOGUE NA TRíADE
 tags:
-- DIARY
+- diary
 cover: uploads/2016/05/capa-conselho.jpg
 ---
 

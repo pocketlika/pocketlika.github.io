@@ -2,7 +2,7 @@
 layout: post
 title: 'VAMOS DECORAR! #VEDA26'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-26.jpg
 ---
 

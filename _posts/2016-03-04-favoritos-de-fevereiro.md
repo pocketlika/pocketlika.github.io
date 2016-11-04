@@ -2,7 +2,7 @@
 layout: post
 title: Favoritos de Fevereiro
 tags:
-- DIARY
+- diary
 cover: uploads/2016/03/capa-favoritos-fevereiro.jpg
 ---
 

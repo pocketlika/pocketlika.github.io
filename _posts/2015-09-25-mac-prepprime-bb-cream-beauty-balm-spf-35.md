@@ -2,8 +2,8 @@
 layout: post
 title: 'MAC: PREP+PRIME BB CREAM BEAUTY BALM SPF 35'
 tags:
-- BEAUTY
-- MAKEUP
+- beauty
+- makeup
 cover: uploads/2015/09/capa-mac-bb-cream.png
 ---
 

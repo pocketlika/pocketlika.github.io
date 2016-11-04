@@ -2,7 +2,7 @@
 layout: post
 title: 'A Nova J. K. Rowling #VEDA28'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-28.jpg
 ---
 

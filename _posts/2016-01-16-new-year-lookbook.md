@@ -2,7 +2,7 @@
 layout: post
 title: New Year LookBook
 tags:
-- LOOKBOOK
+- lookbook
 cover: uploads/2016/01/capa-lookbook.png
 ---
 

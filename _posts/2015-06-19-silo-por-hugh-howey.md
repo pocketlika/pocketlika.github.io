@@ -2,7 +2,7 @@
 layout: post
 title: Silo, por Hugh Howey
 tags:
-- DIARY
+- diary
 cover: uploads/2015/06/capa-silo.jpg
 ---
 

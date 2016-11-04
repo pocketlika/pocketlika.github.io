@@ -2,7 +2,7 @@
 layout: post
 title: 'Semana Marvel: Agents of S.H.I.E.L.D'
 tags:
-- DIARY
+- diary
 cover: uploads/2015/06/capa-shield.jpg
 ---
 

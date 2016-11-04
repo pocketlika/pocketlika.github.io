@@ -2,8 +2,8 @@
 layout: post
 title: 'Clinique: Clarifying Lotion Mild - Passo 2'
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2015/06/capa-clinique-clarifying.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Favoritos de Janeiro
 tags:
-- DIARY
+- diary
 cover: uploads/2016/01/capa-favoritos-janeiro.png
 ---
 

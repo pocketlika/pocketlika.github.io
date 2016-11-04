@@ -2,7 +2,7 @@
 layout: post
 title: 'Surpresa Chegando #VEDA04'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-04.jpg
 ---
 

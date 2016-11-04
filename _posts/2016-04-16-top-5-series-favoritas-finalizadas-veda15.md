@@ -2,7 +2,7 @@
 layout: post
 title: 'Top 5 Séries Favoritas Finalizadas #VEDA15'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-15.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FINALMENTE! #VEDA30'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/05/capa-veda-30.jpg
 ---
 

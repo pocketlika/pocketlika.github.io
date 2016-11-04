@@ -2,8 +2,8 @@
 layout: post
 title: MEUS ESSENCIAIS DE INVERNO PARA A PELE
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2016/06/capa-essenciais-inverno.jpg
 ---
 

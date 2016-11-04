@@ -2,7 +2,7 @@
 layout: post
 title: 'Um Dia Muito Louco #VEDA23'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-23.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Uma Pergunta Por Dia
 tags:
-- DIARY
+- diary
 cover: uploads/2016/01/capa-uma-pergunta-por-dia.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mirrors Edge Catalyst CLOSED BETA #VEDA24'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-24.jpg
 ---
 

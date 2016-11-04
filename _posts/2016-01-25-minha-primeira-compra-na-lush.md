@@ -2,8 +2,8 @@
 layout: post
 title: Minha primeira compra na LUSH
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2016/01/capa-lush.png
 ---
 

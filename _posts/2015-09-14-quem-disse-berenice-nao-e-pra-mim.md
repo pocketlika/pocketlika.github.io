@@ -2,8 +2,8 @@
 layout: post
 title: Quem disse, Berenice? [não] é pra mim
 tags:
-- BEAUTY
-- MAKEUP
+- beauty
+- makeup
 cover: uploads/2015/09/capa-quem-disse-berenice.png
 ---
 

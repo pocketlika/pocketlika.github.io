@@ -2,8 +2,8 @@
 layout: post
 title: Belo Horizonte e a Feira Hippie
 tags:
-- PLACES
-- AWAY
+- places
+- away
 cover: uploads/2015/09/capa-feira-hippie.jpg
 ---
 

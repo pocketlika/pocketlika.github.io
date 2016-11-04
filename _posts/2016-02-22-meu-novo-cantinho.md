@@ -2,7 +2,7 @@
 layout: post
 title: Meu novo cantinho
 tags:
-- DIARY
+- diary
 cover: uploads/2016/02/capa-meu-cantinho.png
 ---
 

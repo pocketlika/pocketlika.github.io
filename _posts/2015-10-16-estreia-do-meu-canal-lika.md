@@ -2,7 +2,7 @@
 layout: post
 title: 'Estréia do meu canal: Lika'
 tags:
-- DIARY
+- diary
 cover: uploads/2015/10/capa-estreia-canal.jpg
 ---
 

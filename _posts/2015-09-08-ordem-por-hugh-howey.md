@@ -2,7 +2,7 @@
 layout: post
 title: Ordem, por Hugh Howey
 tags:
-- DIARY
+- diary
 cover: uploads/2015/09/capa-ordem.jpg
 ---
 

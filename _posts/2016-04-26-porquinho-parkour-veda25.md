@@ -2,7 +2,7 @@
 layout: post
 title: 'Porquinho Parkour #VEDA25'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-25.jpg
 ---
 

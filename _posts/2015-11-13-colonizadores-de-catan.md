@@ -2,7 +2,7 @@
 layout: post
 title: Colonizadores de Catan
 tags:
-- DIARY
+- diary
 cover: uploads/2015/11/capa-catan.jpg
 ---
 

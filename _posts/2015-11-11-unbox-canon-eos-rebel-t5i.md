@@ -2,7 +2,7 @@
 layout: post
 title: 'Unbox: Canon EOS Rebel T5i'
 tags:
-- DIARY
+- diary
 cover: uploads/2015/11/capa-unbox-canon.jpg
 ---
 

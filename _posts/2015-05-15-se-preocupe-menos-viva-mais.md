@@ -2,7 +2,7 @@
 layout: post
 title: Se preocupe menos, viva mais!
 tags:
-- DIARY
+- diary
 cover: uploads/2015/05/capa-se-preocupe-menos.jpg
 ---
 

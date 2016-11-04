@@ -2,7 +2,7 @@
 layout: post
 title: 'Cinema e Bebida Favorita #VEDA05'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-05.jpg
 ---
 

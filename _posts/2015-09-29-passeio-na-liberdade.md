@@ -2,8 +2,8 @@
 layout: post
 title: Passeio na Liberdade
 tags:
-- PLACES
-- HOME
+- places
+- home
 cover: uploads/2015/09/capa-passeio-liberdade.png
 ---
 

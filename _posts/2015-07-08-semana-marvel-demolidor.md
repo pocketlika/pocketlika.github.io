@@ -2,7 +2,7 @@
 layout: post
 title: 'Semana Marvel: Demolidor'
 tags:
-- DIARY
+- diary
 cover: uploads/2015/07/capa-demolidor.jpg
 ---
 

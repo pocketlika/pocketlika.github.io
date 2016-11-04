@@ -2,7 +2,7 @@
 layout: post
 title: Perdido em Marte, by Andy Weir
 tags:
-- DIARY
+- diary
 cover: uploads/2015/10/capa-perdido-em-marte.jpg
 ---
 

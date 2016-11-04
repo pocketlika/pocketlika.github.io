@@ -2,7 +2,7 @@
 layout: post
 title: 'Despedidas No Capitão #VEDA20'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-20.jpg
 ---
 

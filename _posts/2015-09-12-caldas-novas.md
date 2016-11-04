@@ -2,8 +2,8 @@
 layout: post
 title: Caldas Novas
 tags:
-- PLACES
-- AWAY
+- places
+- away
 cover: uploads/2015/09/capa-caldas-novas.jpg
 ---
 

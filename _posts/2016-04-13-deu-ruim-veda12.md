@@ -2,7 +2,7 @@
 layout: post
 title: 'Deu Ruim #VEDA12'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-12.jpg
 ---
 

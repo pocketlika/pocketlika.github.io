@@ -2,8 +2,8 @@
 layout: post
 title: Como Eu Cuido Do Meu Cabelo
 tags:
-- BEAUTY
-- HAIR
+- beauty
+- hair
 cover: uploads/2016/01/capa-cuido-do-cabelo.png
 ---
 

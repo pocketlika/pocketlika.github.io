@@ -15,7 +15,7 @@ layout: default
   {{ page.date | date: "%Y" }}
 
   {% for tag in page.tags %}
-      : <a href="{{ site.baseUrl }}/category/{{ tag }}">{{ tag }}</a>
+      : <a class="blog-post-tag" href="{{ site.baseUrl }}/category/{{ tag }}">{{ tag }}</a>
   {% endfor %}
 </p>
 

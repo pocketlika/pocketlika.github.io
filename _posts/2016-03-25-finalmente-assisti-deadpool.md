@@ -2,7 +2,7 @@
 layout: post
 title: Finalmente assisti Deadpool
 tags:
-- DIARY
+- diary
 cover: uploads/2016/03/capa-deadpool.jpg
 ---
 

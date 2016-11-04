@@ -2,7 +2,7 @@
 layout: post
 title: MAIS UM SONHO REALIZADO
 tags:
-- DIARY
+- diary
 cover: uploads/2016/06/capa-sonho-realizado.jpg
 ---
 

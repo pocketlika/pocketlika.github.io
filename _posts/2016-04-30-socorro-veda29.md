@@ -2,7 +2,7 @@
 layout: post
 title: 'SOCORRO!! #VEDA29'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-29.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Meu PRIMEIRO VEDA!
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-01.jpg
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: 5 Dicas Para Uma Pele Saudável
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2016/01/capa-dicas-pele.png
 ---
 

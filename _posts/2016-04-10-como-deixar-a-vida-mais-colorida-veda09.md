@@ -2,7 +2,7 @@
 layout: post
 title: 'Como Deixar A Vida Mais Colorida #VEDA09'
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-veda-09.jpg
 ---
 

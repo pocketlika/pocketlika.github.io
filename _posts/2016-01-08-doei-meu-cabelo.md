@@ -2,7 +2,7 @@
 layout: post
 title: Doei Meu Cabelo!
 tags:
-- DIARY
+- diary
 cover: uploads/2016/01/capa-doei-meu-cabelo.png
 ---
 

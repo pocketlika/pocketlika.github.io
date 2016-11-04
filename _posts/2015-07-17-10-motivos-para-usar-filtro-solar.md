@@ -2,8 +2,8 @@
 layout: post
 title: 10 motivos para usar filtro solar
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2015/07/capa-filtro-solar.jpg
 ---
 

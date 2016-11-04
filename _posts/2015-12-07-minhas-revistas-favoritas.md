@@ -2,7 +2,7 @@
 layout: post
 title: Minhas revistas favoritas
 tags:
-- DIARY
+- diary
 cover: uploads/2015/12/capa-revistas-favoritas.png
 ---
 

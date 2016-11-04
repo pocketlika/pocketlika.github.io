@@ -2,8 +2,8 @@
 layout: post
 title: Viaje, viaje sempre!
 tags:
-- PLACES
-- AWAY
+- places
+- away
 cover: uploads/2015/04/capa-viaje-sempre.jpg
 ---
 

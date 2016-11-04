@@ -2,7 +2,7 @@
 layout: post
 title: Eu escolho o Brasil
 tags:
-- DIARY
+- diary
 cover: uploads/2016/03/capa-escolho-brasil.png
 ---
 

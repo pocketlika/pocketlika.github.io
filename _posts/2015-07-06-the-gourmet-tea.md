@@ -2,8 +2,8 @@
 layout: post
 title: The Gourmet Tea
 tags:
-- PLACES
-- HOME
+- places
+- home
 cover: uploads/2015/07/capa-gourmet-tea.jpg
 ---
 

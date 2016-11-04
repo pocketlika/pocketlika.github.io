@@ -2,7 +2,7 @@
 layout: post
 title: Vencendo o hábito de roer unhas
 tags:
-- DIARY
+- diary
 cover: uploads/2015/06/capa-roer-unhas.jpg
 ---
 

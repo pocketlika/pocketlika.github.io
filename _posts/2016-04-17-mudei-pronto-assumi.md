@@ -2,7 +2,7 @@
 layout: post
 title: Mudei! Pronto, assumi.
 tags:
-- DIARY
+- diary
 cover: uploads/2016/04/capa-mudei.png
 ---
 

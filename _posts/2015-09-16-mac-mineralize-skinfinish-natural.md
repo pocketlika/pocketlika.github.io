@@ -2,8 +2,8 @@
 layout: post
 title: 'MAC: Mineralize Skinfinish Natural'
 tags:
-- BEAUTY
-- SKINCARE
+- beauty
+- skincare
 cover: uploads/2015/09/capa-mac-mineralize.png
 ---
 
