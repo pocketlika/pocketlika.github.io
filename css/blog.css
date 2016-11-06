@@ -35,11 +35,6 @@ a:hover {
  * Override Bootstrap's default container.
  */
 
-/*@media (min-width: 1200px) {
-  .container {
-    width: 970px;
-  }
-}*/
 .container {
   width: 1100px;
   background-color: #fff;
@@ -63,24 +58,27 @@ a:hover {
 }
 .blog-title {
   margin-top: 123px;
-  margin-left: 76px;
+  padding-left: 76px;
+}
+
+.blog-title-social {
+  margin-top: 190px;
   text-decoration: none;
   color: #5c5160;
 }
-.blog-title a {
+.blog-title-social a {
   color: #5c5160;
 }
-.blog-title a:hover {
+.blog-title-social a:hover {
   color: #b5ddda;
 }
 
 .blog-logo {
-  margin-right: 200px;
+
 }
 .blog-social {
   margin-right: 28px;
 }
-
 
 
 /*
@@ -170,8 +168,21 @@ ul.nav a:hover {
   color: #5c5160;
 }
 .sidebar-module-posts a:hover {
-  /*text-decoration: underline;*/
   color: #b5ddda;
+}
+
+.sidebar-youtube {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.sidebar-youtube-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 
@@ -319,17 +330,17 @@ ul.nav a:hover {
  * Footer
  */
 
- .blog-footer {
-   width: 1100px;
-   height: 350px;
-   margin: auto;
-   padding: 130px 0;
-   text-align: center;
-   /*overflow: auto;*/
-   background-image: url("{{ site.baseurl }}/img/background_footer.png");
-   background-repeat: no-repeat;
-   background-size: cover;
- }
+.blog-footer {
+  width: 1100px;
+  height: 350px;
+  margin: auto;
+  padding: 130px 0;
+  text-align: center;
+  /*overflow: auto;*/
+  background-image: url("{{ site.baseurl }}/img/background_footer.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .footer-row {
   padding-top: 20px;
   font-size: 18px;
@@ -413,4 +424,58 @@ ul.nav a:hover {
 }
 .search-result-title a:hover {
   color: #b5ddda;
+}
+
+
+/*
+ * Responsive stuff
+ */
+
+@media (max-width: 1100px) {
+  .container {
+    width: 100%;
+  }
+  .blog-header {
+    width: 100%;
+    height: 100%;
+  }
+  .blog-nav {
+    width: 100%;
+    height: 100%;
+  }
+  .blog-footer {
+    width: 100%;
+    height: 400px;
+  }
+
+  .blog-logo {
+    width: 100%;
+    height: auto;
+  }
+  .blog-title {
+    margin-top: 40px;
+  }
+  .blog-title-social {
+    margin: 0;
+    visibility: hidden;
+  }
+  .blog-social {
+    margin-right: 14px;
+  }
+
+  .blog-post-cover img {
+    width: 100%;
+  }
+  .blog-post-image {
+    width: 100%;
+  }
+
+  .blog-sidebar {
+    padding-left: 15px;
+  }
+
+  .footer-signature img {
+    width: 80%;
+    height: auto;
+  }
 }
