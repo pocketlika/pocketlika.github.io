@@ -449,8 +449,9 @@ ul.nav a:hover {
   }
 
   .blog-logo {
+    /*visibility: hidden;*/
     width: 100%;
-    height: auto;
+    height: 100%;
   }
   .blog-title {
     margin-top: 40px;
