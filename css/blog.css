@@ -115,8 +115,10 @@ ul.nav a:hover {
   text-align: center;
   color: #5c5160;
   font-size: 18px;
-  margin-right: 75px;
   /*font-weight: bold;*/
+}
+.blog-nav-item-margin {
+  margin-right: 75px;
 }
 
 .blog-nav-input {
@@ -472,7 +474,7 @@ ul.nav a:hover {
     width: 100%;
   }
 
-  .blog-nav-item {
+  .blog-nav-item-margin {
     margin-right: 0;
   }
 
