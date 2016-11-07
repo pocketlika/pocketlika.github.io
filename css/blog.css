@@ -472,6 +472,10 @@ ul.nav a:hover {
     width: 100%;
   }
 
+  .blog-nav-item {
+    margin-right: 0;
+  }
+
   .blog-sidebar {
     padding-left: 15px;
   }
