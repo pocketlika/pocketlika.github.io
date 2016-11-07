@@ -62,6 +62,7 @@ a:hover {
 }
 
 .blog-title-social {
+  text-align: right;
   margin-top: 190px;
   text-decoration: none;
   color: #5c5160;
@@ -77,7 +78,7 @@ a:hover {
 
 }
 .blog-social {
-  margin-right: 28px;
+  margin-right: 40px;
 }
 
 
