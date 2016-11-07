@@ -118,7 +118,7 @@ ul.nav a:hover {
   /*font-weight: bold;*/
 }
 .blog-nav-item-margin {
-  margin-right: 75px;
+  margin-right: 80px;
 }
 
 .blog-nav-input {
@@ -345,7 +345,7 @@ ul.nav a:hover {
   background-size: cover;
 }
 .footer-row {
-  padding-top: 20px;
+  padding-top: 25px;
   font-size: 18px;
   color: #5c5160;
 }
@@ -475,7 +475,7 @@ ul.nav a:hover {
   }
 
   .blog-nav-item-margin {
-    margin-right: 0;
+    margin-right: 20px;
   }
 
   .blog-sidebar {
@@ -485,5 +485,6 @@ ul.nav a:hover {
   .footer-signature img {
     width: 80%;
     height: auto;
+    padding-top: 40px;
   }
 }
