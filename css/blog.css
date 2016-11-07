@@ -78,7 +78,10 @@ a:hover {
 
 }
 .blog-social {
-  margin-right: 40px;
+  margin-left: 40px;
+}
+.blog-social-right {
+  margin-right: 60px;
 }
 
 
@@ -363,8 +366,8 @@ ul.nav a:hover {
 }
 
 .blog-social-footer {
-  margin-left: 14px;
-  margin-right: 14px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 .footer-social a {
   color: #5c5160;
