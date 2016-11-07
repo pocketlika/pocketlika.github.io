@@ -491,6 +491,10 @@ ul.nav a:hover {
     height: auto;
     padding-top: 40px;
   }
+  .blog-social-footer {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
 
   .pagination {
     font-size: 14px;
