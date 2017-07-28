@@ -5,7 +5,7 @@
 baseUrl: http://heylika.com.br
 
 # Social Media
-linkFacebook: https://www.facebook.com/pocketlika
+linkFacebook: https://www.facebook.com/heylika.blog
 linkTwitter: http://twitter.com/pocketlika
 linkBloglovin: https://www.bloglovin.com/blogs/feliz-assim-14224049
 linkYoutube: https://www.youtube.com/channel/UCTk3xkOSzWzf8Ba-wJN8jDA
@@ -13,8 +13,8 @@ linkPinterest: https://br.pinterest.com/heylika/
 linkInstagram: https://www.instagram.com/heylika/
 
 # Blog Settings
-title: hey, Lika
-description: Blog
+title: h e y l i k a
+description: Entre um detalhe e outro.
 email: pocketlika@gmail.com
 paginate: 10
 permalink: pretty
