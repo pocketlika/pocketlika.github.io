@@ -344,7 +344,7 @@ ul.nav a:hover {
   padding: 130px 0;
   text-align: center;
   /*overflow: auto;*/
-  background-image: url("{{ site.baseurl }}/img/background_footer.png");
+  background-image: url("{{ site.baseurl }}/img/background_footer02.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
