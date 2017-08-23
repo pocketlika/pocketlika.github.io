@@ -5,7 +5,7 @@ tags:
 - diary
 - places
 - away
-cover: uploads/2017/08/capa-ola-brighton.png
+cover: uploads/2017/08/capa-ola-brighton.jpg
 excerpt: Eu não sei nem por onde começar esse post. Aprimorar meu inglês foi se tornando uma necessidade desde que me tornei professora. Só que nunca imaginei que viria estudar exatamente no lugar dos meus sonhos.
 
 ---
