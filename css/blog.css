@@ -263,6 +263,11 @@ ul.nav a:hover {
   height: auto;
 }
 
+.blog-post-recized-image {
+  width: 700px;
+  height: auto;
+}
+
 .blog-post-excerpt {
   margin-bottom: 20px;
 }
