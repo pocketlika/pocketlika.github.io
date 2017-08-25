@@ -42,6 +42,6 @@ O socorro prestado pela escola, o suporte diante do meu desespero, os olhos bril
 
 Sempre mantenho minha psiquiatra atualizada, dos dias bons e dos ruins. Vejam o que ela falou em relação a essa situação:
 
-<img class="blog-post-recized-image" src="{{ site.baseUrl }}/uploads/2017/08/absurdo-homestay-01.jpg" alt="hey, Lika"/>
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/absurdo-homestay-02.jpg" alt="hey, Lika"/>
 
 Eu não sei onde vou estar daqui uma semana. Tenho trauma de ir para outra família, mas agora só posso esperar.

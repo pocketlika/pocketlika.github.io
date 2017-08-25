@@ -263,11 +263,6 @@ ul.nav a:hover {
   height: auto;
 }
 
-.blog-post-recized-image {
-  width: auto;
-  height: auto;
-}
-
 .blog-post-excerpt {
   margin-bottom: 20px;
 }
@@ -482,9 +477,6 @@ ul.nav a:hover {
   }
   .blog-post-image {
     width: 100%;
-  }
-  .blog-post-recized-image {
-    width: auto;
   }
 
   .blog-nav-item-margin {
