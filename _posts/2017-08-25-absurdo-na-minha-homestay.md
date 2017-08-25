@@ -26,8 +26,10 @@ Eu faltei na escola 5 vezes: 2 por perder a hora, 1 por exame médico e 2 porque
 
 Foi então que a novela mexicana começou. Essa semana uma coisa na casa chamada "boiling", que eu não sei como traduzir para o português, começou a dar defeito no Domingo. Estava para quebrar e ontem acabou quebrando de vez. Esse "boiling" é responsável por aquecer a casa e a água. Só que é muito caro, segundo ela, em torno de 5 mil. Enquanto estava quase quebrando, o banho foi reduzido a 5 minutos. Quando quebrou de vez, ela juntou A com B. Ela chegou do trabalho, como sempre fiz, fui até a cozinha conversar com ela sobre nosso dia. Só que ao invés do usual, quando cheguei na cozinha, a seguinte conversa se seguiu:
 
-Mãe: Eu e Filha conseguimos lidar com o banho gelado até Quinta-feira da semana que vem (31/08), que é o dia que virão trocar para o "boiling" novo. Pra você não passar por isso, prefiro que vá para outro lugar. \n
-Eu: Não me incomodo com o banho gelado, eu posso lidar com isso até Quinta-feira junto com vocês. \n
+Mãe: Eu e Filha conseguimos lidar com o banho gelado até Quinta-feira da semana que vem (31/08), que é o dia que virão trocar para o "boiling" novo. Pra você não passar por isso, prefiro que vá para outro lugar.
+
+Eu: Não me incomodo com o banho gelado, eu posso lidar com isso até Quinta-feira junto com vocês.
+
 Mãe ficou alterada, apontou o dedo pra mim e disse: NÃO. Eu não quero você aqui mais. Eu quero você fora. Eu quero chegar do trabalho e entrar em um ambiente feliz e saudável. Você aqui, no quarto, não deixa mais a minha casa assim. É horrível chegar aqui e sentir um ambiente ruim. Eu já mandei e-mail para a escola durante meu trabalho para realocar você em outro lugar. Você tem até sexta-feira (hoje) para sair. Quanto mais rápido você for, mais rápido pego o dinheiro. Isso não está mais funcionando para mim.
 
 Eu perdi o chão naquela hora, disse "Ok" e fui para o quarto, não consegui dormir e chorei até amanhecer. Me troquei, fui para a escola com a cara inchada e segui diretamente para o escritório responsável pela presença do aluno. Conversei com eles sobre meu tratamento e o porque das faltas, eles me deram apoio e orientações, pediram para eu tentar não deixar de ir e que tudo iria se resolver. Em seguida fui para a aula, os alunos e os professores me receberam com muita preocupação e me ajudaram a melhorar também. No intervalo fui para o escritório responsável pela a acomodação e perguntei se eles tinham visto o e-mail que a Mãe havia mandado sobre a água gelada. Eles confirmaram que tinham lido sobre o problema com o "boiling".
@@ -37,5 +39,9 @@ Eu não queria voltar para aquela casa, ver aquela mulher depois do surto a alte
 Não tive tempo de parar para escrever e, nesse momento, estou fazendo isso aqui do quarto da acomodação residencial.  Durante esse tempo, se não tiver vaga aqui, vão me direcionar a uma outra família. Eu implorei que não queria ficar com família alguma e eles me disseram que existem famílias que aceitam pessoas com a minha condição e não distratam dessa forma. Segundo elas, a escola já tive e ainda tem alunos com depressão estudando lá e morando em homestay. Com familias que não são ignorantes. O socorro prestado pela escola, o suporte diante do meu desespero, os olhos brilhando de empatia por causa do meu choro de angustia, a velocidade com que atenderam ao meu pedido de não voltar para àquela casa depois da escola, foi espetacular.
 
 Eu aprendi com tudo isso que é necessário informar à escola quando o aluno estiver sobre tratamento relacionado a algum distúrbio mental, pois pode acontecer isso o que houve comigo e não quero que aconteça com mais ninguém. Por favor, lembre-se disso. Ninguém tem culpa, nem a escola, nem a agência, são eventos da vida que não conseguimos controlar. Quero ressaltar que houve uma preocupação dela ao fato de eu ter que tomar banho gelado, mas isso não diminui a gravidade do que ela disse para mim e o absurdo que passei.
+
+Sempre mantenho minha psiquiatra atualizada, dos dias bons e dos ruins. Vejam o que minha ela falou em relação a essa situação:
+
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/absurdo-homestay-01.jpg" alt="hey, Lika"/>
 
 Eu não sei onde vou estar daqui uma semana. Tenho trauma de ir para outra família, mas agora só posso esperar.
