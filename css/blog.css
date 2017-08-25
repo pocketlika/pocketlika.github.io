@@ -484,7 +484,7 @@ ul.nav a:hover {
     width: 100%;
   }
   .blog-post-recized-image {
-
+    width: auto;
   }
 
   .blog-nav-item-margin {
