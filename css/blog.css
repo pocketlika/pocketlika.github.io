@@ -264,8 +264,8 @@ ul.nav a:hover {
 }
 
 .blog-post-video {
-  width: 700px;
-  height: 1280px;
+  width: 1400px;
+  height: auto;
 }
 
 .blog-post-excerpt {
