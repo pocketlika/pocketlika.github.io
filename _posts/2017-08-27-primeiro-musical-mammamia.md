@@ -1,0 +1,31 @@
+---
+layout: post
+title: MAMMA MIA! MEU PRIMEIRO MUSICAL EM INGLÊS
+tags:
+- diary
+- places
+- away
+cover: uploads/2017/08/capa-mammamia.jpg
+excerpt: Adoro músicais. Ainda mais quando são ao vivo. Eu ainda não conhecia a história desse, mas sabia que seria incrível.
+
+---
+
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/mammamia-01.jpg" alt="hey, Lika"/>
+
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/mammamia-03.jpg" alt="hey, Lika"/>
+
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/mammamia-04.jpg" alt="hey, Lika"/>
+
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/mammamia-05.jpg" alt="hey, Lika"/>
+
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/mammamia-06.jpg" alt="hey, Lika"/>
+
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/mammamia-07.jpg" alt="hey, Lika"/>
+
+<img class="blog-post-image" src="{{ site.baseUrl }}/uploads/2017/08/mammamia-08.jpg" alt="hey, Lika"/>
+
+Adoro músicais. Ainda mais quando são ao vivo. Eu ainda não conhecia a história desse, mas sabia que seria incrível. Desde que cheguei em Brighton havia cartazes espalhados anunciando a chegada de <a href="http://mamma-mia.com/" target="top">Mamma Mia!</a> pela primeira vez na cidade. Claro que pirei. Precisava passar por essa experiência de assistir um musical totalmente em inglês. Sem esquecer de mencionar que isso seria somado em conhecer <a href="http://brightoncentre.co.uk/" target="top">Brighton Centre</a>. Depois que você entra no prédio, o uso de câmeras é proibido, então não pude tirar fotos do local. Eu simplesmente amei o musical. Assitiria novamente e recomendo todo mundo ir quando tiverem a oportunidade. Cantei, dei altas risadas, dancei e me emocionei com a mensagem. Assistam o trailer para vocês entederem um pouco de quão incrível foi estar lá.
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=QEze7COQt9k&feature=youtu.be">
+</iframe>
