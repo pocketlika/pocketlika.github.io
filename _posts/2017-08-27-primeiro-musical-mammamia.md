@@ -26,6 +26,6 @@ excerpt: Adoro músicais. Ainda mais quando são ao vivo. Eu ainda não conhecia
 
 Adoro músicais. Ainda mais quando são ao vivo. Eu ainda não conhecia a história desse, mas sabia que seria incrível. Desde que cheguei em Brighton havia cartazes espalhados anunciando a chegada de <a href="http://mamma-mia.com/" target="top">Mamma Mia!</a> pela primeira vez na cidade. Claro que pirei. Precisava passar por essa experiência de assistir um musical totalmente em inglês. Sem esquecer de mencionar que isso seria somado a conhecer <a href="http://brightoncentre.co.uk/" target="top">Brighton Centre</a>. Depois que você entra no prédio, o uso de câmeras é proibido, então não pude tirar fotos do local. Infelizmente, porque é muito lindo! Enfim, eu simplesmente amei o musical. Assitiria novamente e recomendo todo mundo ir quando tiverem a oportunidade. Cantei, dei altas risadas, dancei e me emocionei com a mensagem. Assistam o trailer para vocês entederem um pouco de quão incrível foi estar lá.
 
-<iframe class="blog-post-image" height="1280"
+<iframe class="blog-post-video"
 src="https://www.youtube.com/embed/QEze7COQt9k">
 </iframe>
