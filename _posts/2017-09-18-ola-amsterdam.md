@@ -67,4 +67,4 @@ Aproveitando que estou na Inglaterra, decidi que minha primeira viagem pela Euro
 
 Aproveitamos para andar da estação até a casa para ir conhecendo a cidade pelo caminho. Saímos para jantar e meus amigos me levaram em uma churrascaria Argentina chamada Salmuera. Eu já sabia que ia ser uma expiência interessante só pela afronta aos vegetarianos que se encontrava na entrada. (kkkkk) A carne é fenomenal e conseguiu vencer a carne que comi em uma churrascaria de Blumenal. Preciso mencionar a cerveja que também foi novidade e por ser tão gostosa, minha amiga acabou pedindo uma também haahah Em breve vou postar sobre os outros dois dias, são muitas fotos e muitos lugares que visitamos. Vai ser difícil escolher as fotos para postar, é tanta beleza em um lugar só!
 
-Vocês tem vontade de ir à Amsterdam? Eu recomendo como primeira parada pela Europa <3
+Vocês também têm vontade de conhecer Amsterdam? Eu recomendo como primeira parada pela Europa <3
