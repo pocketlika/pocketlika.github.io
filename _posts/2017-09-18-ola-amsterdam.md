@@ -5,7 +5,7 @@ tags:
 - places
 - away
 cover: uploads/2017/09/capa-ola-amsterdam.jpg
-excerpt: Aproveitando que estou na Inglaterra, decidi que minha primeira viagem pela Europa seria para a Holanda. Tenho um casal de amigos morando lá e passei o final de semana com eles.
+excerpt: Aproveitando que estou na Inglaterra, decidi que minha primeira viagem pela Europa seria para a Holanda. Tenho um casal de amigos morando lá e passei o final de semana com eles. Ver a cidade pela primeira vez foi muito incrível, ainda mais à noite.
 
 ---
 
@@ -65,6 +65,6 @@ excerpt: Aproveitando que estou na Inglaterra, decidi que minha primeira viagem 
 
 Aproveitando que estou na Inglaterra, decidi que minha primeira viagem pela Europa seria para a Holanda. Tenho um casal de amigos morando lá e passei o final de semana com eles. Ver a cidade pela primeira vez foi muito incrível, ainda mais à noite. Nunca imaginei que um lugar tão lindo como esse poderia existir e acho muito difícil encontrar uma cidade que ganhe dessa. Começando pela estação de trem, os canais e barcos, os tijolinhos das casas, as flores, as igrejas com arquitetura gótica, o palácio, bares, cafés, tudo! Parece que foi desenhando a mão. Além disso, preciso lembrar que o sistema que a cidade funciona é quase perfeito.
 
-Aproveitamos para andar da estação até a casa para ir conhecendo a cidade pelo caminho. Saímos para jantar e meus amigos me levaram em uma churrascaria Argentina chamada Salmuera. Eu já sabia que ia ser uma expiência interessante só pela afronta aos vegetarianos que se encontrava na entrada. (kkkkk) A carne é fenomenal e conseguiu vencer a carne que comi em uma churrascaria de Blumenal. Preciso mencionar a cerveja que também foi novidade e por ser tão gostosa, minha amiga acabou pedindo uma também haahah Em breve vou postar sobre os outros dois dias, são muitas fotos e muitos lugares que visitamos. Vai ser difícil escolher as fotos para postar, é tanta beleza em um lugar só!
+Aproveitamos para andar da estação até a casa para ir conhecendo a cidade pelo caminho. Saímos para jantar e meus amigos me levaram em uma churrascaria Argentina chamada <a href="http://sal-amsterdam.nl/" target="top">Salmuera</a>. Eu já sabia que ia ser uma expiência interessante só pela afronta aos vegetarianos que se encontrava na entrada. (kkkkk) A carne é fenomenal e conseguiu vencer a que comi em uma churrascaria em Blumenal. Preciso mencionar a cerveja que também foi novidade e por ser tão gostosa, minha amiga acabou pedindo uma também haahah Em breve vou postar sobre os outros dois dias, são muitas fotos e muitos lugares que visitamos. Vai ser difícil escolher as fotos para postar, é tanta beleza em um lugar só!
 
 Vocês também têm vontade de conhecer Amsterdam? Eu recomendo como primeira parada pela Europa <3
