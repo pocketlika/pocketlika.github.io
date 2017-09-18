@@ -4,7 +4,7 @@ title: OLÁ, AMSTERDAM
 tags:
 - places
 - away
-cover: uploads/2017/09/capa-ola-amsterdan.jpg
+cover: uploads/2017/09/capa-ola-amsterdam.jpg
 excerpt: Aproveitando que estou na Inglaterra, decidi que minha primeira viagem pela Europa seria para a Holanda. Tenho um casal de amigos morando lá e passei o final de semana com eles.
 
 ---
